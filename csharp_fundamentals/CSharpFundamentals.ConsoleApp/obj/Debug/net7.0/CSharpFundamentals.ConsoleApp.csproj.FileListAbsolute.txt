@@ -1,0 +1,14 @@
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.ConsoleApp.exe
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.ConsoleApp.deps.json
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.ConsoleApp.runtimeconfig.json
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.ConsoleApp.dll
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.ConsoleApp.pdb
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.ConsoleApp.AssemblyInfoInputs.cache
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.ConsoleApp.AssemblyInfo.cs
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.ConsoleApp.dll
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\refint\CSharpFundamentals.ConsoleApp.dll
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.ConsoleApp.pdb
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.ConsoleApp.genruntimeconfig.cache
+E:\My_Learning\Dot_Net\csharp_fundamentals\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\ref\CSharpFundamentals.ConsoleApp.dll
