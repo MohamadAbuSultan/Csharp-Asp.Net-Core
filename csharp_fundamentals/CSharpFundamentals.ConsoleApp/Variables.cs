@@ -2,7 +2,7 @@
 {
     internal class Variables
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             //string statementToPrint = "Hello , passionate coders";
             //Console.WriteLine(statementToPrint);
