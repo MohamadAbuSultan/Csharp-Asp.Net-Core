@@ -2,7 +2,7 @@
 {
     internal class Parse_Strings
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             Console.WriteLine("Enter your birth year: ");
             string year = Console.ReadLine();
