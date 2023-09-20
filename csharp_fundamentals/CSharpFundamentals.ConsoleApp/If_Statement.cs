@@ -2,7 +2,7 @@
 {
     internal class If_Statement
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             Console.WriteLine("Enter a number : ");
             string number = Console.ReadLine();
