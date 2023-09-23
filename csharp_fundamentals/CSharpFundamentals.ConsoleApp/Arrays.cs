@@ -2,7 +2,7 @@
 {
     internal class Arrays
     {
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             // array (مجموعة قيم من نفس النوع (من نفس الداتا تايب
             int[] numbers = { 1, 2, 3, 4, 5 };
