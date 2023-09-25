@@ -2,7 +2,7 @@
 {
     internal class For_loop
     {
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             //int[] Numbers = { 10, 20, 30, 40, 50, 100 };
             //for (int i = 0; i < Numbers.Length; i += 2)
