@@ -2,7 +2,7 @@
 {
     internal class For_Foreach_Training
     {
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {
             //Console.Write("Enter Number of the array : ");
             //int number = int.Parse(Console.ReadLine());
