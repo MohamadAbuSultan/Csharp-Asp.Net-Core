@@ -2,7 +2,7 @@
 {
     internal class Array_Finding
     {
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {
             int number = ReadPositiveNumber();
             int[] numbers = ReadNumbers(number);
