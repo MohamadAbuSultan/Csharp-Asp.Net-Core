@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/mnTKJlkokBPS2j2sgAbx8wydiHxtmCfGl2axX/hmv0UjAciEkxlL70z6XcsjHaeZJDKJoflhWZ+7/sdORD8Bg==",
+  "dgSpecHash": "RM37VY0V/mk9MrMDbjMNEHigcwVw68eUqVcY8REE4HvtTdMnsizMN5QgrLN/v+MjAA6Q5GvCQnlS3hk+WIdU5w==",
   "success": true,
-  "projectFilePath": "D:\\My_Learning\\Dot_Net\\csharp_fundamentals\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj",
+  "projectFilePath": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

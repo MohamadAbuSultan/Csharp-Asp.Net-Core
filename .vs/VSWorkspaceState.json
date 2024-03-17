@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\csharp_fundamentals",
+    "\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp"
   ],
+  "SelectedNode": "\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Training_Palindrome_Words.cs",
   "PreviewInSolutionExplorer": false
 }

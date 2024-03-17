@@ -4,7 +4,7 @@ namespace CSharpFundamentals
 {
     internal class Palindrom_String
     {
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             string word1 = ReadWord();
             string word2 = ReverseWord(word1);
