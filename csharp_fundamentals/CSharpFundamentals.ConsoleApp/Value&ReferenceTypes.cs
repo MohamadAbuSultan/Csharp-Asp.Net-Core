@@ -2,7 +2,7 @@
 {
     internal class Value_ReferenceType
     {
-        static void Main(string[] args)
+        static void Main16(string[] args)
         {
             // value type:> stack
             // reference :> heap
