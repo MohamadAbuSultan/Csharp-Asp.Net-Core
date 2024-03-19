@@ -6,7 +6,7 @@
          - Implicit Casting بتتحول من الصغير للكبير 
          - Explicit Casting من الكبير للصغير
          */
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             int i = 5;
             // Implicit Casting
