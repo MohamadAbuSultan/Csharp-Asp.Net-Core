@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\dot_net\\csharp asp.net core\\csharp_fundamentals\\csharpfundamentals.consoleapp\\string_split\u0026join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\string_split\u0026join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\dot_net\\csharp asp.net core\\csharp_fundamentals\\csharpfundamentals.consoleapp\\string_formatting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\string_formatting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,19 +99,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "String_Split\u0026Join.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
+              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
+              "ToolTip": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
+              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:57:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "String_Formatting.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
               "ToolTip": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
               "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAUwDcAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T10:03:54.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Type_Casting.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Type_Casting.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Type_Casting.cs",
@@ -115,12 +132,11 @@
               "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Type_Casting.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T03:54:57.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T03:54:57.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Value\u0026ReferenceTypes.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Value\u0026ReferenceTypes.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Value\u0026ReferenceTypes.cs",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Training_Palindrome_Words.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Training_Palindrome_Words.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Training_Palindrome_Words.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Training_Array_Findings.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Training_Array_Findings.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Training_Array_Findings.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Comments.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Comments.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Comments.cs",
@@ -168,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Methods.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Methods.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Methods.cs",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "For \u0026 Foreach Training.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\For \u0026 Foreach Training.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\For \u0026 Foreach Training.cs",
@@ -192,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ForEach.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\ForEach.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\ForEach.cs",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TernaryOperator.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\TernaryOperator.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\TernaryOperator.cs",
@@ -216,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ForLoop.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\ForLoop.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\ForLoop.cs",
@@ -228,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Arrays.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Arrays.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Arrays.cs",
@@ -240,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "If_Statement.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\If_Statement.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\If_Statement.cs",
@@ -253,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Parse_Strings.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Parse_Strings.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Parse_Strings.cs",
@@ -265,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Syntax.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Syntax.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Syntax.cs",
@@ -277,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Program.cs",
@@ -289,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Variables.cs",
               "DocumentMoniker": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Variables.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Variables.cs",

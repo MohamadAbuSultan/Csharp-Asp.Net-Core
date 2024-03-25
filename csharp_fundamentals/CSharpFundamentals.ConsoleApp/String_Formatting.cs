@@ -7,7 +7,7 @@
          * - Control Spcaing
          * - Format Arguments (0.00, N2, C2)
          */
-        static void Main(string[] args)
+        static void Main12(string[] args)
         {
             // placeholders {0} {1} كأني حاجز مكان لداتا معينة هدخلها بعدين
             string str = "Hello {0}, My name is {1}";
