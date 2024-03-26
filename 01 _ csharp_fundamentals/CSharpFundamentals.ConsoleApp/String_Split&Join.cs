@@ -6,7 +6,7 @@
          * string.Split بتاخذ سترينق بتقطعه وبتحوله ل أرري أوف سترينق
          * string.Join بتاخذ أرري وبتحولها لسترينق واحد على بعضه
          */
-        static void Main(string[] args)
+        static void Main111(string[] args)
         {
             Console.WriteLine("Please enter list of numbers separated by Comma(,):");
             string input = Console.ReadLine();
