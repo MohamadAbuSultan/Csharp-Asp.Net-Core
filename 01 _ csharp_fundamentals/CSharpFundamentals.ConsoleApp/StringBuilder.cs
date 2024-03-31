@@ -10,7 +10,7 @@
                 * Memory usage: StringBuilder reduces memory usage when concatenating multiple strings.
              
          */
-        static void Main(string[] args)
+        static void Main12(string[] args)
         {
             // immutable object مجرد ما تعطي الأوبجكت فاليو ما بيتغيرش 
             // immutable object: عندما نُعرّف متغيرًا من نوع string ونُعطيه قيمة، لا يمكننا تغيير هذه القيمة لاحقًا. تُسمى هذه الخاصية بـ "immutable".
