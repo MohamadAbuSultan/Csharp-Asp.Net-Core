@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj": {}
+    "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj": {}
   },
   "projects": {
-    "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj": {
+    "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj",
+        "projectUniqueName": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj",
         "projectName": "CSharpFundamentals",
-        "projectPath": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj",
+        "projectPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj",
         "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-        "outputPath": "D:\\My_Learning\\Dot_Net\\Csharp Asp.Net Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\obj\\",
+        "outputPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
