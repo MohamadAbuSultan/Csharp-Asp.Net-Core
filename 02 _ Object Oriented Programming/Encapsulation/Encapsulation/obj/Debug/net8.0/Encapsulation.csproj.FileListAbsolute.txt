@@ -1,0 +1,30 @@
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\1 _ Encapsulation\1 _ Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

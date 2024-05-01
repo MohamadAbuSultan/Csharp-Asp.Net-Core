@@ -1,0 +1,5 @@
+error CS1519: Invalid token 'void' in class, record, struct, or interface member declaration
+The error CS1519 occurs when there's an invalid token 'void' in a class, record, struct, or interface member declaration. 
+This issue arose due to a mistake in the code where 'publice' was written instead of 'public'.
+
+
