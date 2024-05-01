@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
