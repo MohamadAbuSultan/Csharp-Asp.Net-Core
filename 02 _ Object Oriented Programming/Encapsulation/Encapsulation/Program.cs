@@ -22,7 +22,8 @@ namespace Encapsulation
             Console.WriteLine($"Tax Percentage: {employee.TaxPercentage}");
             // invalid state : الأوبجكت فيه قيم غير صحيحة وغير منطقية من ناحية البزنس 
             // invalid state :  الكائن يحتوي على قيم غير صحيحة أو غير منطقية بالنسبة لسياق التطبيق أو الأعمال التجارية
-            // invalid state : This means that the object contains invalid or illogical values ​​in relation to the application context or business logic
+            // invalid state : This means that the object contains invalid
+            // or illogical values ​​in relation to the application context or business logic
         }
     }
 }
