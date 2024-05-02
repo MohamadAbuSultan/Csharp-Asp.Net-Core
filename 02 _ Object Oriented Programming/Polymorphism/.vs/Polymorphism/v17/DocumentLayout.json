@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|d:\\my_learning\\csharp-asp.net-core\\02 _ object oriented programming\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|d:\\my_learning\\csharp-asp.net-core\\02 _ object oriented programming\\polymorphism\\polymorphism\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|d:\\my_learning\\csharp-asp.net-core\\02 _ object oriented programming\\polymorphism\\polymorphism\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|d:\\my_learning\\csharp-asp.net-core\\02 _ object oriented programming\\polymorphism\\polymorphism\\freelanceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\freelanceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|d:\\my_learning\\csharp-asp.net-core\\02 _ object oriented programming\\polymorphism\\polymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|d:\\my_learning\\csharp-asp.net-core\\02 _ object oriented programming\\polymorphism\\polymorphism\\internemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414D3283-A287-4E17-8492-D012B57EF86D}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\internemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\Person.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Person.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\Person.cs",
+              "RelativeToolTip": "Polymorphism\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:10:06.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryEmployee.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\SalaryEmployee.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\SalaryEmployee.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\SalaryEmployee.cs",
+              "RelativeToolTip": "Polymorphism\\SalaryEmployee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:59:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:52:31.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FreelanceEmployee.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\FreelanceEmployee.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\FreelanceEmployee.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\FreelanceEmployee.cs",
+              "RelativeToolTip": "Polymorphism\\FreelanceEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:59:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\Employee.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Employee.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\Employee.cs",
+              "RelativeToolTip": "Polymorphism\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:58:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternEmployee.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\InternEmployee.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\InternEmployee.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\02 _ Object Oriented Programming\\Polymorphism\\Polymorphism\\InternEmployee.cs",
+              "RelativeToolTip": "Polymorphism\\InternEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:59:56.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
