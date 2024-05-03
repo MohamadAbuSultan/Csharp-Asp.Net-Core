@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.exe
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\02 _ Object Oriented Programming\Abstraction\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
