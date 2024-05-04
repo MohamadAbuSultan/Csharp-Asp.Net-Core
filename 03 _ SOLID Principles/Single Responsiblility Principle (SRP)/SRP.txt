@@ -1,0 +1,29 @@
+Single Responsibility Principle(SRP)
+
+The responsibility of a class should be clearly defined, serving only one purpose and having one responsibility and objective.
+This means that regardless of the number of methods within the class, they should all contribute to the same cohesive purpose.
+Cohesion refers to the degree to which the elements inside a class are related to one another and serve a common purpose. 
+High cohesion is achieved when all methods within a class work together to fulfill a single responsibility.
+This results in easier design and editing of the code, even if the class contains a large number of methods, 
+as long as they are all aligned with the class's main responsibility
+
+The Single Responsibility Principle(SRP) is a fundamental design principle in object-oriented programming(OOP).
+It states that each class in your software system should have only one reason to change.
+
+In other words, every function or interface in a class should be tightly coupled to the class's primary purpose.
+
+Benefits of the Single Responsibility Principle:
+
+Improved code cohesion: The more cohesive a class is, the easier it is to understand and modify.
+Ease of maintenance: Classes with a single responsibility are easier to maintain, as changes to their code are usually confined to a single function.
+Reduced errors: Classes with a single responsibility are more likely to have fewer errors, as each function focuses on a specific task.
+Ease of reuse: Classes with a single responsibility are easier to reuse in other projects, as their functions are well-defined and understood.
+How to achieve the Single Responsibility Principle:
+
+Identify the class responsibility : Think about the main purpose of the class and what it should do.
+
+Divide tasks into categories: Identify the tasks that are relevant to the class responsibility.
+
+Create separate classes for each task category: If you have more than one category of tasks, create separate classes for each.
+
+Use inheritance to organize classes: Use inheritance to create a hierarchical structure of classes where subclasses inherit functionality from parent classes.
