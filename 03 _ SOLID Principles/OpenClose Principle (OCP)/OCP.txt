@@ -1,0 +1,3 @@
+The software entities such as classes, modules, function etc..
+should be open for extensions but close for modifications
+it's working ? don't touch it
