@@ -1,0 +1,36 @@
+a class should only have one responsibilty. furthemore, it should only have one reason to change
+
+Single Responsibility Principle (SRP):
+A class should only have one responsibility.
+This ensures that any change is driven by a single reason.
+Reduces interdependencies between classes.
+
+Benefits of SRP:
+1- Testing: Less functionality means fewer test cases.
+2- Lower Coupling: Fewer dependencies lead to lower coupling.
+3- Easier to Understand: Clean code enhances readability.
+4- Organized: Smaller, focused classes result in a more organized codebase.
+
+Practical Application:
+Each class handles a specific aspect of functionality.
+Promotes modularity and maintainability.
+Minimizes confusion and enhances clarity.
+
+Divide and Conquer:
+Breaks down complex problems into smaller, manageable tasks.
+Enables effective application of SRP.
+Facilitates parallel development and improves productivity.
+
+1- Testing : less functionality => fewer testcases
+Testing: When a class has a single responsibility, it implies that there is less functionality bundled together within that class. As a result, there are fewer potential interactions and scenarios to test. This leads to a more focused and manageable set of test cases, making testing more efficient and effective.
+
+2- Lower Coupling : less functionality => fewer dependencies => lower coupling
+Lower Coupling: With each class having a single responsibility, there are fewer dependencies between classes. This results in lower coupling, meaning that changes to one part of the codebase are less likely to have ripple effects throughout the system. This promotes modularity and maintainability, as changes can be localized to the relevant classes.
+
+3- Easier To Understand : --> clean code
+Easier to Understand: When each class has a clear and single responsibility, it makes the codebase easier to understand and reason about. Developers can quickly grasp the purpose of each class and its role within the system. This leads to cleaner and more readable code, facilitating collaboration and reducing the likelihood of introducing bugs during maintenance or modification.
+
+4- organized : smaller class
+مبدأ Single Responsibility هو مبدأ في تصميم البرمجيات ينص على أن كل فصل في البرنامج يجب أن يكون مسؤولاً عن مهمة واحدة واحدة فقط. بمعنى آخر، يجب أن تكون هناك مسؤولية واحدة فقط لكل قطعة من الكود أو فئة أو وحدة. عندما يتم فصل المسؤوليات بشكل واضح، يصبح من الأسهل فهم البرنامج وصيانته وتوسيعه.
+في السياق العملي، يعني ذلك أنه عند كتابة الكود، يجب على المبرمج أن يتأكد من أن كل كلاس (فئة) أو مكون في البرنامج يقوم بمهمة واحدة واحدة فقط ولا يقوم بالتعامل مع مسؤوليات متعددة. على سبيل المثال، يمكن أن يكون لدى كلاس في نظام الإدارة المالية مسؤولية لحساب الرواتب، ولكن ليس أيضًا لتخزين بيانات الموظفين. هذا يجعل الكود أكثر فعالية وصيانة واضحة، ويقلل من الاختلاط بين المسؤوليات والتباسات البرمجية.
+
