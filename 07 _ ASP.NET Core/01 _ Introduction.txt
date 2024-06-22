@@ -1,0 +1,70 @@
+Prerequisites:-
+C# - OOP - Solid Principles - SQL Server - Linq - EF Core -
+Design Pattern (Singleton Pattern- Builder Pattern- Dependency Injection) is a huge plus 
+Reflection is a huge plus 
+
+
+What's ASP.NET Core ?
+ASP.NET is a popular web-development framework for building web apps on the NET platform.
+ASP.NET Core is the open-source version of ASP.NET, that runs on macOS, linux, and Windows.
+ASP.NET Core was first released in 2016 and is a re-design of earlier Windows-only versions of ASP.NET.
+
+
+What's API ?
+API is the acronym for Application Programming Interface which is a mechanisms that enable two 
+software components to communicate with each other using a set of definitions and protocols.
+APIs should:
+• Be stateless : Each request is independent and must be self-contained
+• Respect HTTP methods : Use appropriate methods like GET, POST, etc.
+• Respect HTTP standard status codes : Use standard codes to indicate the result of a client's request, like 404 for "The requested resource could not be found."
+
+
+What's HTTP ?
+HTTP is the acronym for Hypertext Transfer Protocol which is the protocol that enables
+the transfer of data over the internet, allowing users to access websites and other online resources.
+Client(web browser or application) send HTTP Request and the server(web-server) send HTTP Response
+
+
+Request Anatomy
+https://www.myapp.com/api/data?q=Abc123&date=2000-01-01
+Scheme: Specifies how to contact the app/server, such as http, https(The secure version of http), etc.
+Host: "www.myapp.com"
+Path: "api/data"
+Query String: q=Abc123&date=2000-01-01
+
+
+HTTP Methods & Status Codes
+HTTP Methods:
+Request Method: Indicates the desired action to be performed on the resource
+Request Headers: HTTP headers let the client and the server pass additional information with an HTTP request or response.
+They're typically used to pass authentication values, indicate the content type of a request, the desired response content
+type, and other custom values.
+Request Body: Body contains the data being sent to the API
+
+HTTP Methods/Verbs:
+GET: Used to get data from API
+POST: Used to create new records
+PUT: Used to update existing records
+DELETE: Used to delete records
+
+HTTP Status Codes:
+200-299: Successful response
+300-399: Redirection
+400-499: Client errors
+500-599:Server errors
+
+Most Common Status Codes
+200 "OK" : Successful response
+201 "Created" : Resource has been created
+204 "No Content" : Request succeeded but no content returned from the server
+400 "Bad Request" : Request is not processed because it's not valid
+401 "Unauthorized" : The client is not authenticated
+403 "Forbidden" : The client is authenticated but doesn't have permission to perform the request
+404 "Not Found" : The requested resource was not found
+405 "Method Not Allowed" : The request method is not supported by the target resource
+409 "Conflict" : The request conflicts with the current state
+
+
+What's JSON ?
+JSON is an acronym for JavaScript Object Notation, is an open standard format, 
+which is lightweight and text-based, designed explicitly for human-readable data interchange.
