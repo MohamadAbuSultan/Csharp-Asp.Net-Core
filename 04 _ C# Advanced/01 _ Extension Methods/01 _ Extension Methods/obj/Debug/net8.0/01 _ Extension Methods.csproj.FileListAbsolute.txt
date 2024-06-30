@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\bin\Debug\net8.0\01 _ Extension Methods.exe
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\bin\Debug\net8.0\01 _ Extension Methods.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\bin\Debug\net8.0\01 _ Extension Methods.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\bin\Debug\net8.0\01 _ Extension Methods.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\bin\Debug\net8.0\01 _ Extension Methods.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\refint\01 _ Extension Methods.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\01 _ Extension Methods.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\01 _ Extension Methods\01 _ Extension Methods\obj\Debug\net8.0\ref\01 _ Extension Methods.dll
