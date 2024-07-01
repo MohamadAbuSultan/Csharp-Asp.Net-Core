@@ -13,6 +13,8 @@ static int CalculateFactorial(int number)
 // You can use the keyboard shortcut Ctrl+Alt+C to open the Call Stack window
 // directly after setting a breakpoint and starting the debugging process
 
+// we use recursion for operations that work on tree data structures
+
 PrintDirectoryFileSystemEntries("D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\02 _ Recursion", 1);
 
 var size = CalculateDirectorySize("D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\02 _ Recursion");
