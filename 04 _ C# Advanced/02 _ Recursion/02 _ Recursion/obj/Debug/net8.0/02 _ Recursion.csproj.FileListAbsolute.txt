@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\bin\Debug\net8.0\02 _ Recursion.exe
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\bin\Debug\net8.0\02 _ Recursion.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\bin\Debug\net8.0\02 _ Recursion.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\bin\Debug\net8.0\02 _ Recursion.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\bin\Debug\net8.0\02 _ Recursion.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\refint\02 _ Recursion.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\02 _ Recursion.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\02 _ Recursion\02 _ Recursion\obj\Debug\net8.0\ref\02 _ Recursion.dll
