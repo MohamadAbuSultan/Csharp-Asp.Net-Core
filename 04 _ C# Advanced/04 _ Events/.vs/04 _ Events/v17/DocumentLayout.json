@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\04 _ Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FBB0E8-97EB-4CCE-A243-A940B7908CFD}|04 _ Events\\04 _ Events.csproj|d:\\my_learning\\csharp-asp.net-core\\04 _ c# advanced\\04 _ events\\04 _ events\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FBB0E8-97EB-4CCE-A243-A940B7908CFD}|04 _ Events\\04 _ Events.csproj|solutionrelative:04 _ events\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FBB0E8-97EB-4CCE-A243-A940B7908CFD}|04 _ Events\\04 _ Events.csproj|d:\\my_learning\\csharp-asp.net-core\\04 _ c# advanced\\04 _ events\\04 _ events\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FBB0E8-97EB-4CCE-A243-A940B7908CFD}|04 _ Events\\04 _ Events.csproj|solutionrelative:04 _ events\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FBB0E8-97EB-4CCE-A243-A940B7908CFD}|04 _ Events\\04 _ Events.csproj|d:\\my_learning\\csharp-asp.net-core\\04 _ c# advanced\\04 _ events\\04 _ events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FBB0E8-97EB-4CCE-A243-A940B7908CFD}|04 _ Events\\04 _ Events.csproj|solutionrelative:04 _ events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\04 _ Events\\04 _ Events\\Employee.cs",
+              "RelativeDocumentMoniker": "04 _ Events\\Employee.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\04 _ Events\\04 _ Events\\Employee.cs",
+              "RelativeToolTip": "04 _ Events\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:32:14.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryCalculator.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\04 _ Events\\04 _ Events\\SalaryCalculator.cs",
+              "RelativeDocumentMoniker": "04 _ Events\\SalaryCalculator.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\04 _ Events\\04 _ Events\\SalaryCalculator.cs",
+              "RelativeToolTip": "04 _ Events\\SalaryCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:26:35.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\04 _ Events\\04 _ Events\\Program.cs",
+              "RelativeDocumentMoniker": "04 _ Events\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\04 _ Events\\04 _ Events\\Program.cs",
+              "RelativeToolTip": "04 _ Events\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:23:28.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

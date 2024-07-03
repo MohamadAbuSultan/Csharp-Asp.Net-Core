@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\bin\Debug\net8.0\04 _ Events.exe
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\bin\Debug\net8.0\04 _ Events.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\bin\Debug\net8.0\04 _ Events.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\bin\Debug\net8.0\04 _ Events.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\bin\Debug\net8.0\04 _ Events.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\refint\04 _ Events.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\04 _ Events.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\04 _ Events\04 _ Events\obj\Debug\net8.0\ref\04 _ Events.dll
