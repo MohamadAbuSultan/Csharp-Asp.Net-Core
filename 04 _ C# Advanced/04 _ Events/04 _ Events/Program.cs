@@ -18,8 +18,15 @@
                 });
             }
             var Calculator = new SalaryCalculator();
+            Calculator.EmployeeSalaryCalculated += LogEmployeeSalary;
+            Calculator.EmployeeSalaryCalculated += (employee, salary) =>
+            Console.WriteLine($"Payslip sent to employee '{employee.Name}'");
             Calculator.CalculateSalaries(employees, e => e.BasicSalary > 2000);
         }
 
+        private static void LogEmployeeSalary(Employee employee, int salary)
+        {
+            Console.WriteLine($"Salary for employee '{employee.Name}' = {salary}");
+        }
     }
 }

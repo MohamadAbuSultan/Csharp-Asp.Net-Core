@@ -1,10 +1,11 @@
-﻿using static Events.Program;
-
-namespace Events
+﻿namespace Events
 {
     public class SalaryCalculator
     {
         public delegate bool ShouldCalculate(Employee employee);
+
+        public event EmployeeSalaryCalculatedEventHandler EmployeeSalaryCalculated;
+        public delegate void EmployeeSalaryCalculatedEventHandler(Employee employee, int salary);
 
         public void CalculateSalaries(List<Employee> employees, ShouldCalculate predicate)
         {
@@ -13,7 +14,7 @@ namespace Events
                 if (predicate(employee))
                 {
                     var salary = employee.BasicSalary + employee.Bonus - employee.Deductions;
-                    Console.WriteLine($"Salary for employee '{employee.Name}' with basic salary ({employee.BasicSalary}) = {salary}");
+                    EmployeeSalaryCalculated?.Invoke(employee, salary); // object is null?.
                 }
             }
         }
