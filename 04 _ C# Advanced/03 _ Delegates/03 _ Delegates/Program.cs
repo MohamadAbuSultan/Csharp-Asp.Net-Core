@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        delegate bool ShouldCalculate(Employee employee);
         public class Employee
         {
             public string Name { get; set; }
@@ -47,7 +48,32 @@
             Console.WriteLine("-------------");
 
 
+            List<Employee> employees = new();
+            for (int i = 1; i <= 100; i++)
+            {
+                employees.Add(new Employee
+                {
+                    Name = $"Employee{i}",
+                    BasicSalary = Random.Shared.Next(1000, 5001),
+                    Deductions = Random.Shared.Next(0, 501),
+                    Bonus = Random.Shared.Next(0, 1001)
+                });
+            }
 
+            // CalculateSalaries(employees, e => e.BasicSalary <= 2000);
+            CalculateSalaries(employees, e => e.BasicSalary > 2000);
+        }
+
+        private static void CalculateSalaries(List<Employee> employees, ShouldCalculate predicate)
+        {
+            foreach (var employee in employees)
+            {
+                if (predicate(employee))
+                {
+                    var salary = employee.BasicSalary + employee.Bonus - employee.Deductions;
+                    Console.WriteLine($"Salary for employee '{employee.Name}' with basic salary ({employee.BasicSalary}) = {salary}");
+                }
+            }
         }
 
         static void CalculateWithDelegate(int num1, int num2, CalculateDelegate dlg)
