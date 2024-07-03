@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\bin\Debug\net8.0\03 _ Delegates.exe
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\bin\Debug\net8.0\03 _ Delegates.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\bin\Debug\net8.0\03 _ Delegates.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\bin\Debug\net8.0\03 _ Delegates.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\bin\Debug\net8.0\03 _ Delegates.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\refint\03 _ Delegates.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\03 _ Delegates.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\03 _ Delegates\03 _ Delegates\obj\Debug\net8.0\ref\03 _ Delegates.dll
