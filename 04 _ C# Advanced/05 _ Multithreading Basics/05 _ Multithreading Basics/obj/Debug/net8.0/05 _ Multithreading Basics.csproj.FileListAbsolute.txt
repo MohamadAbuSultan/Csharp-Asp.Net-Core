@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\bin\Debug\net8.0\05 _ Multithreading Basics.exe
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\bin\Debug\net8.0\05 _ Multithreading Basics.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\bin\Debug\net8.0\05 _ Multithreading Basics.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\bin\Debug\net8.0\05 _ Multithreading Basics.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\bin\Debug\net8.0\05 _ Multithreading Basics.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\refint\05 _ Multithreading Basics.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\05 _ Multithreading Basics.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\05 _ Multithreading Basics\05 _ Multithreading Basics\obj\Debug\net8.0\ref\05 _ Multithreading Basics.dll
