@@ -1,25 +1,23 @@
-﻿namespace Multithreading
+﻿namespace Tap
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             var cts = new CancellationTokenSource();
-            ThreadPool.QueueUserWorkItem(ProcessBatch1, cts.Token);
-            ThreadPool.QueueUserWorkItem(ProcessBatch2, cts.Token);
-            Thread.Sleep(1200);
-            cts.Cancel();
-            Console.ReadKey();
+            Console.WriteLine("Main Thread Id: " + Environment.CurrentManagedThreadId);
+            ProcessBatch1(cts.Token);
+            ProcessBatch2(cts.Token);
         }
 
         private static object _lock = new();
 
-        private static void ProcessBatch1(object? state)
+        private static async Task ProcessBatch1(CancellationToken cancellationToken)
         {
-            var cancellationToken = (CancellationToken)state;
-
-            Thread.Sleep(1000);
-            for (var i = 1; i <= 1000; i++)
+            Console.WriteLine("Batch1 Thread Id: " + Environment.CurrentManagedThreadId);
+            await Task.Delay(1);
+            Console.WriteLine("Batch1 Thread Id: " + Environment.CurrentManagedThreadId);
+            for (var i = 1; i <= 100; i++)
             {
                 if (cancellationToken.IsCancellationRequested)
                     return;
@@ -31,13 +29,14 @@
                     Console.ForegroundColor = ConsoleColor.White;
                 }
             }
+            return;
         }
-        private static void ProcessBatch2(object? state)
+        private static async Task ProcessBatch2(CancellationToken cancellationToken)
         {
-            var cancellationToken = (CancellationToken)state;
-
-            Thread.Sleep(1000);
-            for (var i = 1001; i <= 2000; i++)
+            Console.WriteLine("\nBatch2 Thread Id: " + Environment.CurrentManagedThreadId);
+            await Task.Delay(1);
+            Console.WriteLine("\nBatch2 S2 Thread Id: " + Environment.CurrentManagedThreadId);
+            for (var i = 101; i <= 200; i++)
             {
                 if (cancellationToken.IsCancellationRequested)
                     return;
@@ -49,6 +48,7 @@
                     Console.ForegroundColor = ConsoleColor.White;
                 }
             }
+            return;
         }
     }
 }
