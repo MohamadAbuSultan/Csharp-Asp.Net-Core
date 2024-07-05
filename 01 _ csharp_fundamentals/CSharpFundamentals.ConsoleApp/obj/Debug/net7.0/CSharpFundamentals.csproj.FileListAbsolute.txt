@@ -50,3 +50,10 @@ D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.C
 D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.dll
 D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\refint\CSharpFundamentals.dll
 D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.exe
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.dll
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net7.0\CSharpFundamentals.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\CSharpFundamentals.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net7.0\ref\CSharpFundamentals.dll

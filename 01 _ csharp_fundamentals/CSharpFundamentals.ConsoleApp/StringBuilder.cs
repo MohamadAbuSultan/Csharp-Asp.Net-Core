@@ -25,25 +25,25 @@
             // StringBuilder: It is a mutable data type used to efficiently modify strings.
             // هو بيوحيلك أنو عدل في المكان إلي هو فيه بالميموري يعني محجزش مكان جديد
             // It allows you to modify the string in the same memory location without creating a new one
-            StringBuilder sb = new StringBuilder(); // new: A keyword used to create a new instance of a specific data type.
-            sb.Append("Hello, World!");
-            sb.Append("I love passionate coders channel!");
-            sb.Append("Thank u!");
-            sb.AppendLine("Thank u!"); // modifies it by adding a new line of text بتضيف وبتنزل على سطر جديد
+            //StringBuilder sb = new StringBuilder(); // new: A keyword used to create a new instance of a specific data type.
+            //sb.Append("Hello, World!");
+            //sb.Append("I love passionate coders channel!");
+            //sb.Append("Thank u!");
+            //sb.AppendLine("Thank u!"); // modifies it by adding a new line of text بتضيف وبتنزل على سطر جديد
             // It first adds the text "Thank u!" to the end of the existing string in the StringBuilder
             // It then adds a newline character(\n) to the end, effectively creating a new line with the text "Thank u!" on it.
             // this line adds the message "Thank u!" followed by a newline character to the StringBuilder object.
 
             // stringbuilder بيحجز جواها 16 byte : 16 character
-            Console.WriteLine($"length = {sb.Length}");
+            // Console.WriteLine($"length = {sb.Length}");
             // The Length is set to 0 by default.
-            Console.WriteLine($"Capacity = {sb.Capacity}"); // Capacity: A property that returns the maximum length of the string that can be stored in StringBuilder.
+            //Console.WriteLine($"Capacity = {sb.Capacity}"); // Capacity: A property that returns the maximum length of the string that can be stored in StringBuilder.
             // The Capacity is set to 16 by default.
-            Console.WriteLine($"MaxCapacity = {sb.MaxCapacity}");
+            //Console.WriteLine($"MaxCapacity = {sb.MaxCapacity}");
             // The MaxCapacity is set to 2147483647.
-            Console.WriteLine($"length = {sb.Length}"); // 13
-            Console.WriteLine($"capacity = {sb.Capacity}"); // 16 (automatically increased)
-            Console.WriteLine($"max capacity = {sb.MaxCapacity}"); // 2147483647
+            //Console.WriteLine($"length = {sb.Length}"); // 13
+            // Console.WriteLine($"capacity = {sb.Capacity}"); // 16 (automatically increased)
+            // Console.WriteLine($"max capacity = {sb.MaxCapacity}"); // 2147483647
         }
     }
 }

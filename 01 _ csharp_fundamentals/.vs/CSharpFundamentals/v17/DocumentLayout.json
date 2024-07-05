@@ -3,88 +3,12 @@
   "WorkspaceRootPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\compilation_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\compilation_process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\foreach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\foreach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\for \u0026 foreach training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\for \u0026 foreach training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\stringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\stringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\syntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\syntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\training_palindrome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\training_palindrome_words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\ternaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\ternaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\training_array_findings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\training_array_findings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\type_casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\type_casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\string_split\u0026join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\string_split\u0026join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\string_formatting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\string_formatting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\if_statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\if_statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\value\u0026referencetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\value\u0026referencetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\parse_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\parse_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Constructor.cs",
+              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Constructor.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Constructor.cs",
+              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Constructor.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:08:33.733Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -105,269 +43,17 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Student.cs",
               "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Student.cs",
               "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Student.cs",
               "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T21:35:00.133Z",
+              "WhenOpened": "2024-07-05T08:07:17.742Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Compilation_Process.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Compilation_Process.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Compilation_Process.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Compilation_Process.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Compilation_Process.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T00:38:26.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StringBuilder.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\StringBuilder.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\StringBuilder.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\StringBuilder.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\StringBuilder.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAwwCkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T05:47:30.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "String_Split\u0026Join.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\String_Split\u0026Join.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:57:53.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "String_Formatting.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\String_Formatting.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T10:03:54.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Type_Casting.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Type_Casting.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Type_Casting.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Type_Casting.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Type_Casting.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T03:54:57.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Value\u0026ReferenceTypes.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Value\u0026ReferenceTypes.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Value\u0026ReferenceTypes.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Value\u0026ReferenceTypes.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Value\u0026ReferenceTypes.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAmwDcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T08:15:52.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Training_Palindrome_Words.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Training_Palindrome_Words.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Training_Palindrome_Words.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Training_Palindrome_Words.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Training_Palindrome_Words.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-10-04T14:46:12.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Training_Array_Findings.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Training_Array_Findings.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Training_Array_Findings.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Training_Array_Findings.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Training_Array_Findings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-10-04T11:27:31.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Comments.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Comments.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Comments.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Comments.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Comments.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-10-01T13:33:19.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Methods.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Methods.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Methods.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Methods.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Methods.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-27T09:25:06.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "For \u0026 Foreach Training.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\For \u0026 Foreach Training.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\For \u0026 Foreach Training.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\For \u0026 Foreach Training.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\For \u0026 Foreach Training.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-24T12:01:56.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ForEach.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\ForEach.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\ForEach.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\ForEach.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\ForEach.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-24T11:53:17.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TernaryOperator.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\TernaryOperator.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\TernaryOperator.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\TernaryOperator.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\TernaryOperator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-24T11:47:30.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ForLoop.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\ForLoop.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\ForLoop.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\ForLoop.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\ForLoop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-23T08:33:55.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Arrays.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Arrays.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Arrays.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Arrays.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Arrays.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-20T07:22:35.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "If_Statement.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\If_Statement.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\If_Statement.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\If_Statement.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\If_Statement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-19T10:59:47.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Parse_Strings.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Parse_Strings.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Parse_Strings.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Parse_Strings.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Parse_Strings.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-18T13:17:54.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Syntax.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Syntax.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Syntax.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Syntax.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Syntax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-18T13:17:19.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Program.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Program.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-18T13:17:18.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Variables.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Variables.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Variables.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Variables.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Variables.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAQwGoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-08-30T07:05:13.178Z"
             }
           ]
         }

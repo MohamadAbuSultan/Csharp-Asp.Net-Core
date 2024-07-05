@@ -1,14 +1,14 @@
 ﻿namespace CSharpFundamentals
 {
-    internal class Student
+    public class Student
     {
-        // the code in the compilation_process.cs file
-        public Student()
+        public Student(string name)
         {
             Console.WriteLine("New Student has been initialized");
+            this.Name = name;
         }
         public string Name { get; set; }
-        public string PhoneNumber { get; set; }
+        public int PhoneNumber { get; set; }
         public string Address { get; set; }
     }
 }
