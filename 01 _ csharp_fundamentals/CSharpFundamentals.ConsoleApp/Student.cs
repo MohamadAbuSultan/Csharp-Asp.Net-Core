@@ -4,11 +4,11 @@
     {
         public Student(string name)
         {
-            Console.WriteLine("New Student has been initialized");
+            Console.WriteLine("-----------------------------------------");
             this.Name = name;
         }
-        public string Name { get; set; }
-        public int PhoneNumber { get; set; }
+        public string Name { get; set; } // auto implemented property || // automatic properties 
+        public int PhoneNumber { get; set; } // automatic properties 
         public string Address { get; set; }
     }
 }

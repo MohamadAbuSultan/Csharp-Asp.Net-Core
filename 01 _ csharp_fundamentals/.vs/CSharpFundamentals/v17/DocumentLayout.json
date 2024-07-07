@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|d:\\my_learning\\csharp-asp.net-core\\01 _ csharp_fundamentals\\csharpfundamentals.consoleapp\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B52B4-2045-4328-B53E-83C3F34B9AA9}|CSharpFundamentals.ConsoleApp\\CSharpFundamentals.csproj|solutionrelative:csharpfundamentals.consoleapp\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,22 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Constructor.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Constructor.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Constructor.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Constructor.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Constructor.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T08:08:33.733Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -44,15 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Student.cs",
-              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Student.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Student.cs",
-              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Properties.cs",
+              "RelativeDocumentMoniker": "CSharpFundamentals.ConsoleApp\\Properties.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\CSharpFundamentals.ConsoleApp\\Properties.cs",
+              "RelativeToolTip": "CSharpFundamentals.ConsoleApp\\Properties.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T08:07:17.742Z",
+              "WhenOpened": "2024-07-07T11:19:31.718Z",
               "EditorCaption": ""
             }
           ]

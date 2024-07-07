@@ -2,7 +2,7 @@
 {
     public class Constructor
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Student[] students = new Student[5];
             Student ahmed = new Student("Ahmed");
