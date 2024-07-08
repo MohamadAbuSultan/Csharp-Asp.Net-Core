@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06 _ Task-Based Asynchronous Pattern (TAP)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35fdafdfe0ac8659baaf4b9243ce445390b4ee89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49d754f818527aba077bed1636064122cb3a154e")]
 [assembly: System.Reflection.AssemblyProductAttribute("06 _ Task-Based Asynchronous Pattern (TAP)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06 _ Task-Based Asynchronous Pattern (TAP)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
