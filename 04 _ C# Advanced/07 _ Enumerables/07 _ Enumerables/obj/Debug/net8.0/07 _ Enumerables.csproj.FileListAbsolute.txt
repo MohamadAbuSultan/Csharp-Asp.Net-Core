@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\bin\Debug\net8.0\07 _ Enumerables.exe
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\bin\Debug\net8.0\07 _ Enumerables.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\bin\Debug\net8.0\07 _ Enumerables.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\bin\Debug\net8.0\07 _ Enumerables.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\bin\Debug\net8.0\07 _ Enumerables.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\refint\07 _ Enumerables.dll
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\07 _ Enumerables.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\04 _ C# Advanced\07 _ Enumerables\07 _ Enumerables\obj\Debug\net8.0\ref\07 _ Enumerables.dll

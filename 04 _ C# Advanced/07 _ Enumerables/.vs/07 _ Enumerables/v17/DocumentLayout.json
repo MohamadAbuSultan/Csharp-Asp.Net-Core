@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\07 _ Enumerables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBD8FBA-933B-4805-819B-523CF2F4D9B8}|07 _ Enumerables\\07 _ Enumerables.csproj|d:\\my_learning\\csharp-asp.net-core\\04 _ c# advanced\\07 _ enumerables\\07 _ enumerables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBD8FBA-933B-4805-819B-523CF2F4D9B8}|07 _ Enumerables\\07 _ Enumerables.csproj|solutionrelative:07 _ enumerables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBD8FBA-933B-4805-819B-523CF2F4D9B8}|07 _ Enumerables\\07 _ Enumerables.csproj|d:\\my_learning\\csharp-asp.net-core\\04 _ c# advanced\\07 _ enumerables\\07 _ enumerables\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBD8FBA-933B-4805-819B-523CF2F4D9B8}|07 _ Enumerables\\07 _ Enumerables.csproj|solutionrelative:07 _ enumerables\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBD8FBA-933B-4805-819B-523CF2F4D9B8}|07 _ Enumerables\\07 _ Enumerables.csproj|d:\\my_learning\\csharp-asp.net-core\\04 _ c# advanced\\07 _ enumerables\\07 _ enumerables\\payitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBD8FBA-933B-4805-819B-523CF2F4D9B8}|07 _ Enumerables\\07 _ Enumerables.csproj|solutionrelative:07 _ enumerables\\payitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\07 _ Enumerables\\07 _ Enumerables\\Program.cs",
+              "RelativeDocumentMoniker": "07 _ Enumerables\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\07 _ Enumerables\\07 _ Enumerables\\Program.cs",
+              "RelativeToolTip": "07 _ Enumerables\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:13:20.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\07 _ Enumerables\\07 _ Enumerables\\Employee.cs",
+              "RelativeDocumentMoniker": "07 _ Enumerables\\Employee.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\07 _ Enumerables\\07 _ Enumerables\\Employee.cs",
+              "RelativeToolTip": "07 _ Enumerables\\Employee.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:16:08.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayItem.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\07 _ Enumerables\\07 _ Enumerables\\PayItem.cs",
+              "RelativeDocumentMoniker": "07 _ Enumerables\\PayItem.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\07 _ Enumerables\\07 _ Enumerables\\PayItem.cs",
+              "RelativeToolTip": "07 _ Enumerables\\PayItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:15:00.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
