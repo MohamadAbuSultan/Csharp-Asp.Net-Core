@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\bin\Debug\net8.0\Constants & Read-Only Variables.exe
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\bin\Debug\net8.0\Constants & Read-Only Variables.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\bin\Debug\net8.0\Constants & Read-Only Variables.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\bin\Debug\net8.0\Constants & Read-Only Variables.dll
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\bin\Debug\net8.0\Constants & Read-Only Variables.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.dll
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\refint\Constants & Read-Only Variables.dll
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\Constants & Read-Only Variables.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Constants & Read-Only Variables\Constants & Read-Only Variables\obj\Debug\net8.0\ref\Constants & Read-Only Variables.dll
