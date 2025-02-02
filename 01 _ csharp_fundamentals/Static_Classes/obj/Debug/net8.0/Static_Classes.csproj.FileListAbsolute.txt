@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\bin\Debug\net8.0\Static_Classes.exe
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\bin\Debug\net8.0\Static_Classes.deps.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\bin\Debug\net8.0\Static_Classes.runtimeconfig.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\bin\Debug\net8.0\Static_Classes.dll
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\bin\Debug\net8.0\Static_Classes.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.AssemblyInfo.cs
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.sourcelink.json
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.dll
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\refint\Static_Classes.dll
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.pdb
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\Static_Classes.genruntimeconfig.cache
+D:\My_Learning\Csharp-Asp.Net-Core\01 _ csharp_fundamentals\Static_Classes\obj\Debug\net8.0\ref\Static_Classes.dll
