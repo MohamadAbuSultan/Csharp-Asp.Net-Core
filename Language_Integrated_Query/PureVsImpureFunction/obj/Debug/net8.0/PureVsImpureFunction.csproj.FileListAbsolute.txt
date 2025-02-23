@@ -1,0 +1,15 @@
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\bin\Debug\net8.0\PureVsImpureFunction.exe
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\bin\Debug\net8.0\PureVsImpureFunction.deps.json
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\bin\Debug\net8.0\PureVsImpureFunction.runtimeconfig.json
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\bin\Debug\net8.0\PureVsImpureFunction.dll
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\bin\Debug\net8.0\PureVsImpureFunction.pdb
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.AssemblyInfoInputs.cache
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.AssemblyInfo.cs
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.csproj.CoreCompileInputs.cache
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.dll
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\refint\PureVsImpureFunction.dll
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.pdb
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.genruntimeconfig.cache
+D:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\ref\PureVsImpureFunction.dll
+d:\My_Learning\Language-Integrated-Query\PureVsImpureFunction\obj\Debug\net8.0\PureVsImpureFunction.sourcelink.json
