@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ho9bmMFjm0A=",
+  "success": true,
+  "projectFilePath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\01 _ csharp_fundamentals\\C#\\ConsoleApp\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\pastel\\6.0.1\\pastel.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
