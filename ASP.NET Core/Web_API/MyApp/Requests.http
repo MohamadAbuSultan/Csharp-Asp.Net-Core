@@ -1,0 +1,16 @@
+GET  http://localhost:5276/users/1/posts/hello
+
+###
+GET http://localhost:5276/products/1
+
+###
+GET http://localhost:5276/report/
+
+###
+GET http://localhost:5276/files/D:\My_Learning\Csharp_Asp.NetCore
+
+###
+GET http://localhost:5276/search?query=dotnet&page=2
+
+### 
+GET http://localhost:5276/store/clothing/1/summer-collection?inStock=true
