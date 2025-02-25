@@ -1,0 +1,28 @@
+GET http://localhost:5169
+
+###
+GET http://localhost:5169/blogs
+
+###
+GET http://localhost:5169/blogs/2
+
+###
+POST http://localhost:5169/blogs
+Content-Type: application/json
+
+{
+  "title": "New Blog",
+  "body": "This is a new blog"
+}
+
+###
+DELETE http://localhost:5169/blogs/0
+
+###
+PUT http://localhost:5169/blogs/0
+Content-Type: application/json
+
+{
+  "title": "Update Blog",
+  "body": "This is a updated Blog"
+}
