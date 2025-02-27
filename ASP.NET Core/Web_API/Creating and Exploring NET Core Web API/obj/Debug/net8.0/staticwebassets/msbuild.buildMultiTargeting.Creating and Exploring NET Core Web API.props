@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Creating and Exploring NET Core Web API.props" />
+</Project>

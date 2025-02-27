@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoZkV9A2Gj0=",
+  "success": true,
+  "projectFilePath": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Web_API\\Creating and Exploring NET Core Web API\\Creating and Exploring NET Core Web API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore\\7.3.0\\swashbuckle.aspnetcore.7.3.0.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.3.0\\swashbuckle.aspnetcore.swagger.7.3.0.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.3.0\\swashbuckle.aspnetcore.swaggergen.7.3.0.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.3.0\\swashbuckle.aspnetcore.swaggerui.7.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
