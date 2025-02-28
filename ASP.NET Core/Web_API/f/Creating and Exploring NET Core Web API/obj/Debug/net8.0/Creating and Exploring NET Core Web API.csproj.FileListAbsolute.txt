@@ -1,0 +1,66 @@
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\appsettings.Development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\appsettings.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.exe
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.csproj.AssemblyReference.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.MvcApplicationPartsAssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.MvcApplicationPartsAssemblyInfo.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets.build.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets.development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.Creating and Exploring NET Core Web API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.build.Creating and Exploring NET Core Web API.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Creating and Exploring NET Core Web API.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Creating and Exploring NET Core Web API.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\scopedcss\bundle\Creating and Exploring NET Core Web API.styles.css
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating.7B417655.Up2Date
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\refint\Creating and Exploring NET Core Web API.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\Creating and Exploring NET Core Web API\obj\Debug\net8.0\ref\Creating and Exploring NET Core Web API.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\appsettings.Development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\appsettings.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.exe
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Creating and Exploring NET Core Web API.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.csproj.AssemblyReference.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.MvcApplicationPartsAssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.MvcApplicationPartsAssemblyInfo.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets.build.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets.development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.Creating and Exploring NET Core Web API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.build.Creating and Exploring NET Core Web API.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Creating and Exploring NET Core Web API.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Creating and Exploring NET Core Web API.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\scopedcss\bundle\Creating and Exploring NET Core Web API.styles.css
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating.7B417655.Up2Date
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\refint\Creating and Exploring NET Core Web API.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\Creating and Exploring NET Core Web API.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Web_API\f\Creating and Exploring NET Core Web API\obj\Debug\net8.0\ref\Creating and Exploring NET Core Web API.dll
