@@ -1,0 +1,33 @@
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\appsettings.Development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\appsettings.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.exe
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.csproj.AssemblyReference.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.MvcApplicationPartsAssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.MvcApplicationPartsAssemblyInfo.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.build.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.Dependency Injection.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.build.Dependency Injection.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dependency Injection.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dependency Injection.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\scopedcss\bundle\Dependency Injection.styles.css
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependen.046D97CA.Up2Date
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\refint\Dependency Injection.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Dependency Injection\Dependency Injection\obj\Debug\net8.0\ref\Dependency Injection.dll
