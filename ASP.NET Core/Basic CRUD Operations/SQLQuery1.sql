@@ -1,0 +1,12 @@
+--CREATE DATABASE Products
+--GO
+--USE Products
+
+--CREATE TABLE Products
+--(
+--	Id INT PRIMARY KEY IDENTITY,
+--	Name NVARCHAR(50) NOT NULL,
+--	Sku VARCHAR(50) NOT NULL
+--)
+
+SELECT * FROM Products

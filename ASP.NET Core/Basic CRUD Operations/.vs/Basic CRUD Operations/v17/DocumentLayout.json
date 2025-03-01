@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\basic crud operations\\basic crud operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|solutionrelative:basic crud operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\basic crud operations\\basic crud operations\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|solutionrelative:basic crud operations\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\basic crud operations\\basic crud operations\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|solutionrelative:basic crud operations\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\basic crud operations\\basic crud operations\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|solutionrelative:basic crud operations\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\basic crud operations\\basic crud operations\\basic crud operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33E73704-211C-45D4-8903-7EC62CA65BBF}|Basic CRUD Operations\\Basic CRUD Operations.csproj|solutionrelative:basic crud operations\\basic crud operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Basic CRUD Operations\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Basic CRUD Operations\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:33:54.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Basic CRUD Operations\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Basic CRUD Operations\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:23:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Basic CRUD Operations",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Basic CRUD Operations.csproj",
+              "RelativeDocumentMoniker": "Basic CRUD Operations\\Basic CRUD Operations.csproj",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Basic CRUD Operations.csproj",
+              "RelativeToolTip": "Basic CRUD Operations\\Basic CRUD Operations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T05:19:47.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "Basic CRUD Operations\\Data\\Product.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Data\\Product.cs",
+              "RelativeToolTip": "Basic CRUD Operations\\Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:22:14.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Program.cs",
+              "RelativeDocumentMoniker": "Basic CRUD Operations\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Basic CRUD Operations\\Basic CRUD Operations\\Program.cs",
+              "RelativeToolTip": "Basic CRUD Operations\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBIAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:15:46.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
