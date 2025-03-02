@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,13 +29,17 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\DependencyInjection\\DependencyInjection\\Program.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\DependencyInjection\\DependencyInjection\\Program.cs*",
-              "RelativeToolTip": "DependencyInjection\\Program.cs*",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeToolTip": "DependencyInjection\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T14:53:09.832Z",

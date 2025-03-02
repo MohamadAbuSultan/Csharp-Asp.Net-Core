@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "SYjSuOdnsmpwruY7/dS6rosNcMdgvXjpOPT/GVCc4/0=",
+  "Hash": "x8CuOD5/e+u33yIAuy7hFyCT0FL9nl3Zt1bVIGHEKEo=",
   "Source": "Basic CRUD Operations",
   "BasePath": "_content/Basic CRUD Operations",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
