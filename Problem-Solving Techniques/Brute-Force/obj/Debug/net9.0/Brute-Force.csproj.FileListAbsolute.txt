@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\bin\Debug\net9.0\Brute-Force.exe
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\bin\Debug\net9.0\Brute-Force.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\bin\Debug\net9.0\Brute-Force.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\bin\Debug\net9.0\Brute-Force.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\bin\Debug\net9.0\Brute-Force.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\refint\Brute-Force.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\Brute-Force.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Brute-Force\obj\Debug\net9.0\ref\Brute-Force.dll
