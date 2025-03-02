@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-int[] numbers = { 1, 3, 5, 7, 9 };
+﻿int[] numbers = { 1, 3, 5, 7, 9 };
 int target = 6;
 
 var result = Contains(numbers, target);
