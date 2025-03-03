@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My_Learning\\Language-Integrated-Query\\PureVsImpureFunction\\PureVsImpureFunction.csproj",
+      "projectUniqueName": "D:\\My_Learning\\Csharp_Asp.NetCore\\Language_Integrated_Query\\PureVsImpureFunction\\PureVsImpureFunction.csproj",
       "projectName": "PureVsImpureFunction",
-      "projectPath": "D:\\My_Learning\\Language-Integrated-Query\\PureVsImpureFunction\\PureVsImpureFunction.csproj",
+      "projectPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\Language_Integrated_Query\\PureVsImpureFunction\\PureVsImpureFunction.csproj",
       "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-      "outputPath": "D:\\My_Learning\\Language-Integrated-Query\\PureVsImpureFunction\\obj\\",
+      "outputPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\Language_Integrated_Query\\PureVsImpureFunction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
