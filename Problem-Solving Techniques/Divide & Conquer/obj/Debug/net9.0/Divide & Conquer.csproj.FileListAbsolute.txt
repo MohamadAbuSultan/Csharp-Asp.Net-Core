@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\bin\Debug\net9.0\Divide & Conquer.exe
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\bin\Debug\net9.0\Divide & Conquer.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\bin\Debug\net9.0\Divide & Conquer.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\bin\Debug\net9.0\Divide & Conquer.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\bin\Debug\net9.0\Divide & Conquer.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\refint\Divide & Conquer.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\Divide & Conquer.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Divide & Conquer\obj\Debug\net9.0\ref\Divide & Conquer.dll
