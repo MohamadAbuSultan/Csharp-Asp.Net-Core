@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\bin\Debug\net9.0\ref & out Keywords.exe
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\bin\Debug\net9.0\ref & out Keywords.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\bin\Debug\net9.0\ref & out Keywords.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\bin\Debug\net9.0\ref & out Keywords.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\bin\Debug\net9.0\ref & out Keywords.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\refint\ref & out Keywords.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref & out Keywords.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\ref & out Keywords\obj\Debug\net9.0\ref\ref & out Keywords.dll
