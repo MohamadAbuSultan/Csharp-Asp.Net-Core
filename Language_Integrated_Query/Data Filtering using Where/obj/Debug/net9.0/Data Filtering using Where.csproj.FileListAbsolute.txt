@@ -1,0 +1,18 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\bin\Debug\net9.0\Data Filtering using Where.exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\bin\Debug\net9.0\Data Filtering using Where.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\bin\Debug\net9.0\Data Filtering using Where.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\bin\Debug\net9.0\Data Filtering using Where.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\bin\Debug\net9.0\Data Filtering using Where.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\refint\Data Filtering using Where.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\ref\Data Filtering using Where.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Filtering using Where.csproj.AssemblyReference.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Data Filtering using Where\obj\Debug\net9.0\Data Fil.B5817CCD.Up2Date
