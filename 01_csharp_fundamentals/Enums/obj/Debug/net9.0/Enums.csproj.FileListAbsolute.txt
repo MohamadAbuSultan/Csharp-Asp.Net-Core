@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\bin\Debug\net9.0\Enums.exe
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\bin\Debug\net9.0\Enums.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\bin\Debug\net9.0\Enums.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\bin\Debug\net9.0\Enums.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\bin\Debug\net9.0\Enums.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\refint\Enums.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\Enums.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Enums\obj\Debug\net9.0\ref\Enums.dll
