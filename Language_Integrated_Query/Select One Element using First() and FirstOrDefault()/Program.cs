@@ -14,7 +14,27 @@ namespace SelectOneElement
             //             .First();
 
             // cars = [];
-            var result = cars.First(car => car.Manufacturer == "Hyundai");
+            // var result = cars.First(car => car.Manufacturer == "Hyundai");
+            
+            // cars = [];
+            // var result = cars.FirstOrDefault();
+            // CarRepository.PrintCars([result]);
+
+            // DateTime[] times = {};
+            // var result = times.FirstOrDefault();
+            // Console.WriteLine(result);
+
+            var defaulCar = new Car(
+                "Default",
+                "Default",
+                "Default",
+                "Default",
+                "Default",
+                "Default",
+                "Default"
+            );
+            // cars = [];
+            var result = cars.FirstOrDefault(car => car.Manufacturer == "Hyundai") ?? defaulCar;
             CarRepository.PrintCars([result]);
         }
     }
