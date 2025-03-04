@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Select One Element using First() and FirstOrDefault()")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c9c33ac85cba3fa232e6334c2055c243a633115")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6233c515aed40ec93b7db7a3b5bb29e841c1305b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Select One Element using First() and FirstOrDefault()")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Select One Element using First() and FirstOrDefault()")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ref & out Keywords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a40a3ae0ebf0c4afc094c9c4484b9f1268589cce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6233c515aed40ec93b7db7a3b5bb29e841c1305b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ref & out Keywords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ref & out Keywords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
