@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\bin\Debug\net9.0\Select One Element using First() and FirstOrDefault().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\bin\Debug\net9.0\Select One Element using First() and FirstOrDefault().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\bin\Debug\net9.0\Select One Element using First() and FirstOrDefault().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\bin\Debug\net9.0\Select One Element using First() and FirstOrDefault().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\bin\Debug\net9.0\Select One Element using First() and FirstOrDefault().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\refint\Select One Element using First() and FirstOrDefault().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\Select One Element using First() and FirstOrDefault().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using First() and FirstOrDefault()\obj\Debug\net9.0\ref\Select One Element using First() and FirstOrDefault().dll
