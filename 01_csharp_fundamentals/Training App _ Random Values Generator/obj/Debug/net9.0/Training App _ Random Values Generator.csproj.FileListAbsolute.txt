@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\bin\Debug\net9.0\Training App _ Random Values Generator.exe
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\bin\Debug\net9.0\Training App _ Random Values Generator.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\bin\Debug\net9.0\Training App _ Random Values Generator.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\bin\Debug\net9.0\Training App _ Random Values Generator.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\bin\Debug\net9.0\Training App _ Random Values Generator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\refint\Training App _ Random Values Generator.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\Training App _ Random Values Generator.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App _ Random Values Generator\obj\Debug\net9.0\ref\Training App _ Random Values Generator.dll

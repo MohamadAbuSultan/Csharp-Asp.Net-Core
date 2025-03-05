@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Training App _ Random Values Generator/1.0.0": {
+        "runtime": {
+          "Training App _ Random Values Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Training App _ Random Values Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
