@@ -19,6 +19,20 @@ public enum Color
     Brown,
     Orange
 }
+
+[Flags] // This attribute allows the enum to have multiple values
+public enum WeekDays
+{
+    None = 0b_0000_0000, //  0
+    Saturday = 0b_0000_0001, //  1
+    Sunday = 0b_0000_0010, //  2
+    Monday = 0b_0000_0100, //  4
+    Tuesday = 0b_0000_1000, //  8
+    Wednesday = 0b_0001_0000, // 16
+    Thursday = 0b_0010_0000, // 32
+    Friday = 0b_0100_0000  // 64 (if you need it)
+}
+
 public class Program
 {
     static void Main(string[] args)
@@ -43,7 +57,7 @@ public class Program
         // Console.BackgroundColor = ConsoleColor.DarkGreen;
         // Console.ForegroundColor = ConsoleColor.White;
 
-        while (true)
+        /* while (true)
         {
             Console.Clear();
             Console.WriteLine("Please select an option: ");
@@ -80,6 +94,35 @@ public class Program
             // Add a pause to see the changes before the loop restarts
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
-        }
+        } */
+
+        // WeekDays weekend = WeekDays.Saturday | WeekDays.Sunday | WeekDays.Friday;
+        // Console.WriteLine(weekend); // Output: Saturday, Sunday, Friday
+
+        WeekDays w1 = WeekDays.Saturday | WeekDays.Sunday | WeekDays.Monday | WeekDays.Thursday;
+        WeekDays w2 = WeekDays.Saturday | WeekDays.Tuesday | WeekDays.Friday | WeekDays.Thursday;
+        // System.Console.WriteLine(w1 & w2); // Output: Saturday, Thursday
+
+        // WeekDays fridayFlag = w2 & WeekDays.Friday;
+        // bool isFriday = (fridayFlag == WeekDays.Friday);
+        // Console.WriteLine(isFriday); // Output: True
+        // Console.WriteLine(w2 & WeekDays.Wednesday); // Output: None
+
+        // Console.WriteLine((int)fridayFlag); // Output: 64
+
+        // WeekDays w3 = WeekDays.Saturday | WeekDays.Sunday;
+        // Console.WriteLine(w3); // Output: Saturday, Sunday
+
+        // WeekDays weekend1 = WeekDays.Friday | WeekDays.Saturday;
+        // Console.WriteLine(weekend1); // Output: Saturday, Friday
+
+        // System.Console.WriteLine(w1); // Output: Saturday, Sunday, Monday, Thursday
+        // System.Console.WriteLine(w1 & ~WeekDays.Sunday); // Saturday, Monday, Thursday
+    
+        WeekDays w3 = w1 ^ WeekDays.Sunday;
+        WeekDays w4 = w3 ^ WeekDays.Sunday;
+        Console.WriteLine(w1); // Saturday, Sunday, Monday, Thursday
+        Console.WriteLine(w3); // Saturday, Monday, Thursday
+        Console.WriteLine(w4); // Saturday, Sunday, Monday, Thursday
     }
 }
