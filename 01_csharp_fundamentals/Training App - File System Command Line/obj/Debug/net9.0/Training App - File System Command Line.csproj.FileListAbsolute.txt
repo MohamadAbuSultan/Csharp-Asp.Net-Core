@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\bin\Debug\net9.0\Training App - File System Command Line.exe
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\bin\Debug\net9.0\Training App - File System Command Line.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\bin\Debug\net9.0\Training App - File System Command Line.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\bin\Debug\net9.0\Training App - File System Command Line.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\bin\Debug\net9.0\Training App - File System Command Line.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\refint\Training App - File System Command Line.dll
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.pdb
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\Training App - File System Command Line.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\01_csharp_fundamentals\Training App - File System Command Line\obj\Debug\net9.0\ref\Training App - File System Command Line.dll
