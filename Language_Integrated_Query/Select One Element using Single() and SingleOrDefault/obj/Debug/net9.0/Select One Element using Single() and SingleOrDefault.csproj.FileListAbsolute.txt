@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\bin\Debug\net9.0\Select One Element using Single() and SingleOrDefault.exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\bin\Debug\net9.0\Select One Element using Single() and SingleOrDefault.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\bin\Debug\net9.0\Select One Element using Single() and SingleOrDefault.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\bin\Debug\net9.0\Select One Element using Single() and SingleOrDefault.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\bin\Debug\net9.0\Select One Element using Single() and SingleOrDefault.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\refint\Select One Element using Single() and SingleOrDefault.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\Select One Element using Single() and SingleOrDefault.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Select One Element using Single() and SingleOrDefault\obj\Debug\net9.0\ref\Select One Element using Single() and SingleOrDefault.dll
