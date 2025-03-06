@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Migrations\\20250306144939_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity Framework Core\\Migrations\\20250306144939_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\entity framework core\\entity framework core\\data\\contosopizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|solutionrelative:entity framework core\\data\\contosopizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\entity framework core\\entity framework core\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|solutionrelative:entity framework core\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\entity framework core\\entity framework core\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|solutionrelative:entity framework core\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\entity framework core\\entity framework core\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|solutionrelative:entity framework core\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\entity framework core\\entity framework core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|solutionrelative:entity framework core\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\entity framework core\\entity framework core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D3271E-08BF-41D7-A4DD-2A6FFE25EC0F}|Entity Framework Core\\Entity Framework Core.csproj|solutionrelative:entity framework core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250306144939_InitialCreate.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Migrations\\20250306144939_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Entity Framework Core\\Migrations\\20250306144939_InitialCreate.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Migrations\\20250306144939_InitialCreate.cs",
+              "RelativeToolTip": "Entity Framework Core\\Migrations\\20250306144939_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:49:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContosoPizzaContext.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Data\\ContosoPizzaContext.cs",
+              "RelativeDocumentMoniker": "Entity Framework Core\\Data\\ContosoPizzaContext.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Data\\ContosoPizzaContext.cs",
+              "RelativeToolTip": "Entity Framework Core\\Data\\ContosoPizzaContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:45:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Entity Framework Core\\Model\\OrderDetail.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "Entity Framework Core\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:43:47.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Entity Framework Core\\Model\\Order.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\Order.cs",
+              "RelativeToolTip": "Entity Framework Core\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:42:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Entity Framework Core\\Model\\Customer.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\Customer.cs",
+              "RelativeToolTip": "Entity Framework Core\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:39:56.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Entity Framework Core\\Model\\Product.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Model\\Product.cs",
+              "RelativeToolTip": "Entity Framework Core\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:36:30.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Program.cs",
+              "RelativeDocumentMoniker": "Entity Framework Core\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\Entity Framework Core\\Entity Framework Core\\Program.cs",
+              "RelativeToolTip": "Entity Framework Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:18.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
