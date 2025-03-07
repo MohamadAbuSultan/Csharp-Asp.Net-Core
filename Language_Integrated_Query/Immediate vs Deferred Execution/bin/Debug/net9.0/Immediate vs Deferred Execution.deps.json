@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Immediate vs Deferred Execution/1.0.0": {
+        "runtime": {
+          "Immediate vs Deferred Execution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Immediate vs Deferred Execution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
