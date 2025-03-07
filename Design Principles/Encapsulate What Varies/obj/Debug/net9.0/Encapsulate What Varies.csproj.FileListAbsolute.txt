@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\bin\Debug\net9.0\Encapsulate What Varies.exe
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\bin\Debug\net9.0\Encapsulate What Varies.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\bin\Debug\net9.0\Encapsulate What Varies.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\bin\Debug\net9.0\Encapsulate What Varies.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\bin\Debug\net9.0\Encapsulate What Varies.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\refint\Encapsulate What Varies.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\Encapsulate What Varies.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Encapsulate What Varies\obj\Debug\net9.0\ref\Encapsulate What Varies.dll
