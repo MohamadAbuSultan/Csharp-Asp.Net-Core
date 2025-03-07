@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brute-Force", "Brute-Force\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide & Conquer", "Divide & Conquer\Divide & Conquer.csproj", "{CFA6E160-F64B-423A-A20A-A02FE1ABDA70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fixed-Sliding window", "Fixed-Sliding window\Fixed-Sliding window.csproj", "{24599ADD-50EB-4773-BE36-D54E93C27025}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{CFA6E160-F64B-423A-A20A-A02FE1ABDA70}.Release|x64.Build.0 = Release|Any CPU
 		{CFA6E160-F64B-423A-A20A-A02FE1ABDA70}.Release|x86.ActiveCfg = Release|Any CPU
 		{CFA6E160-F64B-423A-A20A-A02FE1ABDA70}.Release|x86.Build.0 = Release|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Debug|x64.Build.0 = Debug|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Debug|x86.Build.0 = Debug|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Release|x64.ActiveCfg = Release|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Release|x64.Build.0 = Release|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Release|x86.ActiveCfg = Release|Any CPU
+		{24599ADD-50EB-4773-BE36-D54E93C27025}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

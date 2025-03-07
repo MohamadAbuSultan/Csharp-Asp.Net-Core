@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Divide & Conquer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48bfa8a9b8b725519f28c554b50af962895186ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8d3a3e180176a6aa89eb773cf066b64b454cc3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Divide & Conquer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Divide & Conquer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
