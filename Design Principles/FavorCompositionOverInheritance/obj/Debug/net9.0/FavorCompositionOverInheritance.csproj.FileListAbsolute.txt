@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\bin\Debug\net9.0\FavorCompositionOverInheritance.exe
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\bin\Debug\net9.0\FavorCompositionOverInheritance.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\bin\Debug\net9.0\FavorCompositionOverInheritance.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\bin\Debug\net9.0\FavorCompositionOverInheritance.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\bin\Debug\net9.0\FavorCompositionOverInheritance.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\refint\FavorCompositionOverInheritance.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\FavorCompositionOverInheritance.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\FavorCompositionOverInheritance\obj\Debug\net9.0\ref\FavorCompositionOverInheritance.dll
