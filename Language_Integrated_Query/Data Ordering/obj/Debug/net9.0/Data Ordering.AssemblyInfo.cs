@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Data Ordering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8a3979feb63dccdbf63c0b9aaa6ea8e4640b9b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d23b60d82ef000ca13c4a2359fa1d5d0411a8ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Data Ordering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Data Ordering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
