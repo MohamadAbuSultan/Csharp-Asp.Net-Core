@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Loose Vs. Tight Coupling/1.0.0": {
+        "runtime": {
+          "Loose Vs. Tight Coupling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loose Vs. Tight Coupling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

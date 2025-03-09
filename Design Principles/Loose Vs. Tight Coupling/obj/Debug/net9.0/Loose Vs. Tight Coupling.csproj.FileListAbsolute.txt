@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\bin\Debug\net9.0\Loose Vs. Tight Coupling.exe
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\bin\Debug\net9.0\Loose Vs. Tight Coupling.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\bin\Debug\net9.0\Loose Vs. Tight Coupling.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\bin\Debug\net9.0\Loose Vs. Tight Coupling.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\bin\Debug\net9.0\Loose Vs. Tight Coupling.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\refint\Loose Vs. Tight Coupling.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\Loose Vs. Tight Coupling.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Principles\Loose Vs. Tight Coupling\obj\Debug\net9.0\ref\Loose Vs. Tight Coupling.dll
