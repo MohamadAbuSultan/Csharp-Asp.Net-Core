@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\bin\Debug\net9.0\Get Elements Count Using CountBy().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\bin\Debug\net9.0\Get Elements Count Using CountBy().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\bin\Debug\net9.0\Get Elements Count Using CountBy().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\bin\Debug\net9.0\Get Elements Count Using CountBy().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\bin\Debug\net9.0\Get Elements Count Using CountBy().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\refint\Get Elements Count Using CountBy().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\Get Elements Count Using CountBy().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using CountBy()\obj\Debug\net9.0\ref\Get Elements Count Using CountBy().dll
