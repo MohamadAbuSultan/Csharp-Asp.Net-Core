@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\bin\Debug\net9.0\Get Summation Using Sum().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\bin\Debug\net9.0\Get Summation Using Sum().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\bin\Debug\net9.0\Get Summation Using Sum().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\bin\Debug\net9.0\Get Summation Using Sum().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\bin\Debug\net9.0\Get Summation Using Sum().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\refint\Get Summation Using Sum().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\Get Summation Using Sum().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Summation Using Sum()\obj\Debug\net9.0\ref\Get Summation Using Sum().dll
