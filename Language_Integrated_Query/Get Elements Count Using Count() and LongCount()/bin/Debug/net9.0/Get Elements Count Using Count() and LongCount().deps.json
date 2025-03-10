@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Get Elements Count Using Count() and LongCount()/1.0.0": {
+        "runtime": {
+          "Get Elements Count Using Count() and LongCount().dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Get Elements Count Using Count() and LongCount()/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

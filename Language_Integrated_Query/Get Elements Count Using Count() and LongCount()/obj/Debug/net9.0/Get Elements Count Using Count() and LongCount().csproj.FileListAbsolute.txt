@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\bin\Debug\net9.0\Get Elements Count Using Count() and LongCount().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\bin\Debug\net9.0\Get Elements Count Using Count() and LongCount().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\bin\Debug\net9.0\Get Elements Count Using Count() and LongCount().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\bin\Debug\net9.0\Get Elements Count Using Count() and LongCount().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\bin\Debug\net9.0\Get Elements Count Using Count() and LongCount().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\refint\Get Elements Count Using Count() and LongCount().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\Get Elements Count Using Count() and LongCount().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Get Elements Count Using Count() and LongCount()\obj\Debug\net9.0\ref\Get Elements Count Using Count() and LongCount().dll
