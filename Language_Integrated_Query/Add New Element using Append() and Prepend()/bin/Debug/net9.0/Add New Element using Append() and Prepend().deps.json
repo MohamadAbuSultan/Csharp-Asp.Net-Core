@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Add New Element using Append() and Prepend()/1.0.0": {
+        "runtime": {
+          "Add New Element using Append() and Prepend().dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add New Element using Append() and Prepend()/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

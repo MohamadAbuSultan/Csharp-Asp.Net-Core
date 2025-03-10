@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\bin\Debug\net9.0\Add New Element using Append() and Prepend().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\bin\Debug\net9.0\Add New Element using Append() and Prepend().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\bin\Debug\net9.0\Add New Element using Append() and Prepend().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\bin\Debug\net9.0\Add New Element using Append() and Prepend().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\bin\Debug\net9.0\Add New Element using Append() and Prepend().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\refint\Add New Element using Append() and Prepend().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\Add New Element using Append() and Prepend().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Add New Element using Append() and Prepend()\obj\Debug\net9.0\ref\Add New Element using Append() and Prepend().dll
