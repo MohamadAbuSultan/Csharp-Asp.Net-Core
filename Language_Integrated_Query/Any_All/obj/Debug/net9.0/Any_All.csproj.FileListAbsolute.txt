@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\bin\Debug\net9.0\Any_All.exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\bin\Debug\net9.0\Any_All.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\bin\Debug\net9.0\Any_All.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\bin\Debug\net9.0\Any_All.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\bin\Debug\net9.0\Any_All.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\refint\Any_All.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\Any_All.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Any_All\obj\Debug\net9.0\ref\Any_All.dll
