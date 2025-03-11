@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\bin\Debug\net9.0\Functional Programming.exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\bin\Debug\net9.0\Functional Programming.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\bin\Debug\net9.0\Functional Programming.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\bin\Debug\net9.0\Functional Programming.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\bin\Debug\net9.0\Functional Programming.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\refint\Functional Programming.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\Functional Programming.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Functional Programming\obj\Debug\net9.0\ref\Functional Programming.dll

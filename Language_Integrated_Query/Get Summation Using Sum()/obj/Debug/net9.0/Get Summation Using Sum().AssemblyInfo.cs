@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Get Summation Using Sum()")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a73f7e29889a13ed87a994a28b6f0b6f12a390a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81ede7a7d637baa4ab58298cff891543fab6d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Get Summation Using Sum()")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Get Summation Using Sum()")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Immediate vs Deferred Execution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b9c6fe659bbcf965cbaeff47566c27256d9ce18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81ede7a7d637baa4ab58298cff891543fab6d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Immediate vs Deferred Execution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Immediate vs Deferred Execution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

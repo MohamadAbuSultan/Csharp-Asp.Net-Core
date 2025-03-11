@@ -88,7 +88,7 @@ namespace PureVsImpureFunction
         static void AddInteger3()
         {
             numbers.Add(new Random().Next()); // impure interation with outside world
-                                              // impure مع أي إشي خارج نطاق الفنكشن هيكون interaction أي 
+            // impure مع أي إشي خارج نطاق الفنكشن هيكون interaction أي 
         }
 
         static List<int> AddInteger4(List<int> numbers, int num)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Get Elements Count Using Count() and LongCount()")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8da7200ecc865d3640e3e1fe649fb31aea3dae8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81ede7a7d637baa4ab58298cff891543fab6d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Get Elements Count Using Count() and LongCount()")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Get Elements Count Using Count() and LongCount()")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

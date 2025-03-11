@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Select One Element using Last() and LastOrDefault")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b60b5cba74a08eb8f4b123b5f2df3ff96513dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81ede7a7d637baa4ab58298cff891543fab6d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Select One Element using Last() and LastOrDefault")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Select One Element using Last() and LastOrDefault")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

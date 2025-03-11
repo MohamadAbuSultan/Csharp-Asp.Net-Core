@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Add New Element using Append() and Prepend()")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea72f1f98f438d3d71462285fc00845409877f26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81ede7a7d637baa4ab58298cff891543fab6d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Add New Element using Append() and Prepend()")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Add New Element using Append() and Prepend()")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
