@@ -22,11 +22,11 @@ class Program
     private static void RunExtensionFunctional()
     {
         var list = EmployeeRepository.LoadEmployees();
-        var q1 = ExtensionFunctional.Filter(list, e => e.FirstName.ToLowerInvariant() == "ma");
-        ExtensionFunctional.Print(q1, "Employees with first name starting with 'na'");
+        var q1 = ExtensionFunctional.Filter(list, e => e.FirstName.ToLowerInvariant().StartsWith("ma"));
+        ExtensionFunctional.Print(q1, "Employees with first name starting with 'ma'");
 
-        var q2 = ExtensionFunctional.Filter(list, e => e.LastName.ToLowerInvariant() == "ju");
-        ExtensionFunctional.Print(q2, "Employees with last name starting with 'last'");
+        var q2 = ExtensionFunctional.Filter(list, e => e.LastName.ToLowerInvariant().StartsWith("ju"));
+        ExtensionFunctional.Print(q2, "Employees with last name starting with 'ju'");
 
         var q3 = ExtensionFunctional.Filter(list, e => e.Department.ToLowerInvariant() == "hr");
         ExtensionFunctional.Print(q3, "Employees in 'HR' department");

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Training App _ Random Values Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26cb9ffb362d20a71f72ed4b7b0b06ee513dac7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+261c2e9b5dded3c07d05d5292abb1f953c4d4d18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Training App _ Random Values Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Training App _ Random Values Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
