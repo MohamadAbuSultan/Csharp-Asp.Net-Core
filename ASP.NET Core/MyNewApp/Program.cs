@@ -2,6 +2,9 @@ using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Rewrite;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddSingleton<ITaskService, InMemoryTaskService>();
+
 var app = builder.Build();
 
 app.UseRewriter(new RewriteOptions().AddRedirect("tasks/(.*)", "todos/$1"));
@@ -14,20 +17,20 @@ app.Use(async (context, next) =>
 
 var todos = new List<ToDo>();
 
-app.MapGet("/todos", () => todos);
+app.MapGet("/todos", (ITaskService service) => service.GetToDos());
 
-app.MapGet("/todos/{id}", Results<Ok<ToDo>, NotFound> (int id) =>
+app.MapGet("/todos/{id}", Results<Ok<ToDo>, NotFound> (int id, ITaskService service) =>
 {
-    var targetToDo = todos.SingleOrDefault(t => t.Id == id);
+    var targetToDo = service.GetToDoById(id);
     return
         targetToDo is not null
         ? TypedResults.Ok(targetToDo)
         : TypedResults.NotFound();
 });
 
-app.MapPost("/todos", (ToDo task) =>
+app.MapPost("/todos", (ToDo task, ITaskService service) =>
 {
-    todos.Add(task);
+    service.AddToDo(task);
     return TypedResults.Created($"/todos/{task.Id}", task);
 })
 .AddEndpointFilter(async (context, next) =>
@@ -49,12 +52,44 @@ app.MapPost("/todos", (ToDo task) =>
     return await next(context);
 });
 
-app.MapDelete("/todos/{id}", (int id) =>
+app.MapDelete("/todos/{id}", (int id, ITaskService service) =>
 {
-    todos.RemoveAll(t => id == t.Id);
+    service.DeleteToDoById(id);
     return TypedResults.NoContent();
 });
 
 app.Run();
 
 public record ToDo(int Id, string Name, DateTime DueDate, bool IsCompleted);
+
+public interface ITaskService{
+    ToDo? GetToDoById(int id);
+    List<ToDo> GetToDos();
+    void DeleteToDoById(int id);
+    void AddToDo(ToDo task);
+}
+
+class InMemoryTaskService : ITaskService
+{
+    private readonly List<ToDo> _todos = new();
+
+    public ToDo? GetToDoById(int id)
+    {
+        return _todos.SingleOrDefault(t => t.Id == id);
+    }
+
+    public List<ToDo> GetToDos()
+    {
+        return _todos;
+    }
+
+    public void DeleteToDoById(int id)
+    {
+        _todos.RemoveAll(task => task.Id == id);
+    }
+
+    public void AddToDo(ToDo task)
+    {
+        _todos.Add(task);
+    }
+}
