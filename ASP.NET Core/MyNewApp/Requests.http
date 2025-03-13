@@ -6,9 +6,9 @@ POST http://localhost:5093/todos
 Content-Type: application/json
 
 {
-    "id": 2,
-    "name": "My new todo2",
-    "dueDate": "2026-12-31",
+    "id": 1,
+    "name": "My new todo",
+    "dueDate": "2025-12-31",
     "isComplete": false
 }
 
@@ -19,3 +19,6 @@ GET http://localhost:5093/todos/2
 ###
 
 DELETE http://localhost:5093/todos/1
+
+###
+GET http://localhost:5093/tasks/1
