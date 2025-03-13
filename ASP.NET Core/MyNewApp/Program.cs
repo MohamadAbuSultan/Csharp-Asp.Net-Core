@@ -29,6 +29,24 @@ app.MapPost("/todos", (ToDo task) =>
 {
     todos.Add(task);
     return TypedResults.Created($"/todos/{task.Id}", task);
+})
+.AddEndpointFilter(async (context, next) =>
+{
+    var tastArguement = context.GetArgument<ToDo>(0);
+    var errors = new Dictionary<string, string[]>();
+    if (tastArguement.DueDate < DateTime.UtcNow)
+    {
+        errors.Add(nameof(ToDo.DueDate), ["Due date must be in the future."]);
+    }
+    if (tastArguement.IsCompleted)
+    {
+        errors.Add(nameof(ToDo.IsCompleted), ["New tasks must not be completed."]);
+    }
+    if (errors.Count > 0)
+    {
+        return Results.ValidationProblem(errors);
+    }
+    return await next(context);
 });
 
 app.MapDelete("/todos/{id}", (int id) =>
