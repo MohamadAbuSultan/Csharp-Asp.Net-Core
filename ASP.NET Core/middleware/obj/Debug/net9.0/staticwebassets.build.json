@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zQeyx6oW2dmoKlJQUqZwzuXna6vraRBTsXajKZY2yQk=",
+  "Source": "middleware",
+  "BasePath": "_content/middleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
