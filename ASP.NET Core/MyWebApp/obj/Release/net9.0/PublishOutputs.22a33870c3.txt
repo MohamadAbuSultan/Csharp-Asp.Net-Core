@@ -1,0 +1,7 @@
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\publish-fd\MyWebApp.exe
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\publish-fd\appsettings.Development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\publish-fd\appsettings.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\publish-fd\MyWebApp.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\publish-fd\MyWebApp.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\publish-fd\MyWebApp.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\publish-fd\MyWebApp.pdb
