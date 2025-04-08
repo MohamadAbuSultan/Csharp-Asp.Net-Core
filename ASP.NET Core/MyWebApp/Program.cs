@@ -3,5 +3,8 @@ var app = builder.Build();
 
 // app.MapGet("/", () => "Hello World!");
 
-app.UseWelcomePage();
-app.Run(); 
+// app.UseWelcomePage();
+
+app.UseStaticFiles();
+
+app.Run();

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyWebApp\\wwwroot\\moon.jpg",
+      "PackagePath": "staticwebassets\\moon.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyWebApp.props",
+      "PackagePath": "build\\MyWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyWebApp.props",
+      "PackagePath": "buildMultiTargeting\\MyWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyWebApp.props",
+      "PackagePath": "buildTransitive\\MyWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

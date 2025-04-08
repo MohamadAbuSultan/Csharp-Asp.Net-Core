@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "IIywcumt4cD2W6F7TQ0VBb9mRpvnkSjSlUbgKmSLXEQ=",
+  "Hash": "XGJeYpTnx5atZGkrrLHOFNoXGQOfcEGm0yvl379dXR0=",
   "Source": "MyWebApp",
   "BasePath": "_content/MyWebApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApp\\wwwroot",
+      "Source": "MyWebApp",
+      "ContentRoot": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyWebApp\\wwwroot\\moon.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "moon#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j7mr3yxc15",
+      "Integrity": "L2QbCT85H3cldrBx1ptwQ6KCIQWEqeDHtchxW7s9gDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\moon.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "moon.j7mr3yxc15.jpg",
+      "AssetFile": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyWebApp\\wwwroot\\moon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L2QbCT85H3cldrBx1ptwQ6KCIQWEqeDHtchxW7s9gDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 01:32:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7mr3yxc15"
+        },
+        {
+          "Name": "label",
+          "Value": "moon.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L2QbCT85H3cldrBx1ptwQ6KCIQWEqeDHtchxW7s9gDs="
+        }
+      ]
+    },
+    {
+      "Route": "moon.jpg",
+      "AssetFile": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyWebApp\\wwwroot\\moon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L2QbCT85H3cldrBx1ptwQ6KCIQWEqeDHtchxW7s9gDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 01:32:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L2QbCT85H3cldrBx1ptwQ6KCIQWEqeDHtchxW7s9gDs="
+        }
+      ]
+    }
+  ]
 }

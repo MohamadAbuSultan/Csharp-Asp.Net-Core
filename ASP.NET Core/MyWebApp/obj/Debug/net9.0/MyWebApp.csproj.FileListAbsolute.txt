@@ -45,3 +45,4 @@ D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\bin\Debug\net9.0\publish
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\bin\Debug\net9.0\publish-scd-win64\publish-fd\MyWebApp.deps.json
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\bin\Debug\net9.0\publish-scd-win64\publish-fd\MyWebApp.runtimeconfig.json
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\bin\Debug\net9.0\publish-scd-win64\publish-fd\MyWebApp.staticwebassets.endpoints.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\MyWebApp\bin\Debug\net9.0\MyWebApp.staticwebassets.runtime.json
