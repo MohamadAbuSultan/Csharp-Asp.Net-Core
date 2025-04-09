@@ -1,0 +1,17 @@
+### Get Hello World
+GET http://localhost:5084/
+
+### Get JSON (manual serialization)
+GET http://localhost:5084/manual-json
+
+### Get JSON (custom serializer options)
+GET http://localhost:5084/custom-serializer
+
+### Get JSON (automatic serialization)
+GET http://localhost:5084/json
+
+### Get object directly
+GET http://localhost:5084/auto
+
+### Get XML
+GET http://localhost:5084/xml
