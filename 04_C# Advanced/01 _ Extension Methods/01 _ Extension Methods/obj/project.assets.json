@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\01 _ Extension Methods\\01 _ Extension Methods\\01 _ Extension Methods.csproj",
+      "projectUniqueName": "D:\\My_Learning\\Csharp_Asp.NetCore\\04_C# Advanced\\01 _ Extension Methods\\01 _ Extension Methods\\01 _ Extension Methods.csproj",
       "projectName": "01 _ Extension Methods",
-      "projectPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\01 _ Extension Methods\\01 _ Extension Methods\\01 _ Extension Methods.csproj",
+      "projectPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\04_C# Advanced\\01 _ Extension Methods\\01 _ Extension Methods\\01 _ Extension Methods.csproj",
       "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-      "outputPath": "D:\\My_Learning\\Csharp-Asp.Net-Core\\04 _ C# Advanced\\01 _ Extension Methods\\01 _ Extension Methods\\obj\\",
+      "outputPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\04_C# Advanced\\01 _ Extension Methods\\01 _ Extension Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -71,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

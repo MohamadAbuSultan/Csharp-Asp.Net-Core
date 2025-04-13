@@ -17,6 +17,18 @@ namespace MyNamespace
             var input = Console.ReadLine();
             // method chaining
             Console.WriteLine(input.RemoveWhiteSpaces().Reverse()); // This is an example of method chaining
+
+            // How to Create Extension Methods in C#:
+
+            // Create a Static Class:
+            // The class containing the extension method must be declared as static.
+
+            // Define a Static Method:
+            // The method itself must also be declared as static.
+
+            // Use this Keyword for the First Parameter:
+            // The first parameter of the method specifies the type being extended, and it must be prefixed with this keyword.
+
         }
     }
 }
