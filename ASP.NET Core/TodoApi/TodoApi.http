@@ -1,0 +1,32 @@
+@TodoApi_HostAddress = http://localhost:5107
+
+### POST - إنشاء مهمة جديدة
+POST {{TodoApi_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name": "Walk the dog",
+  "isComplete": true
+}
+
+### GET - كل المهام
+GET {{TodoApi_HostAddress}}/todoitems
+
+### GET - مهمة حسب ID
+GET {{TodoApi_HostAddress}}/todoitems/1
+
+### PUT - تعديل المهمة
+PUT {{TodoApi_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Finish homework",
+  "isComplete": true
+}
+
+###
+
+
+### DELETE - حذف المهمة
+DELETE {{TodoApi_HostAddress}}/todoitems/1
