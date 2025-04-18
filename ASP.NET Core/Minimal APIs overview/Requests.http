@@ -1,0 +1,6 @@
+
+### Request to the root endpoint
+GET http://localhost:5207/
+
+### Request to the /users/{userId}/books/{bookId} endpoint
+GET http://localhost:5207/users/2/books/5000
