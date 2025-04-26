@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\bin\Debug\net9.0\Singleton.exe
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\bin\Debug\net9.0\Singleton.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\bin\Debug\net9.0\Singleton.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\bin\Debug\net9.0\Singleton.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\bin\Debug\net9.0\Singleton.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\refint\Singleton.dll
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Design Pattern\Singleton\obj\Debug\net9.0\ref\Singleton.dll
