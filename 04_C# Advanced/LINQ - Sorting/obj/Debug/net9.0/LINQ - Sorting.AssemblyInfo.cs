@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ - Sorting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+082780fe6db99444c66c695536868eb1e1cb39dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1e5d4d090e8511a1afb9efc4ff137d132aef46f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ - Sorting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ - Sorting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
