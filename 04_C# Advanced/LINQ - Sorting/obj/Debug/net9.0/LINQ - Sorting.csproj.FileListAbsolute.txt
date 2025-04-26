@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\bin\Debug\net9.0\LINQ - Sorting.exe
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\bin\Debug\net9.0\LINQ - Sorting.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\bin\Debug\net9.0\LINQ - Sorting.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\bin\Debug\net9.0\LINQ - Sorting.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\bin\Debug\net9.0\LINQ - Sorting.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\refint\LINQ - Sorting.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\LINQ - Sorting.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Sorting\obj\Debug\net9.0\ref\LINQ - Sorting.dll
