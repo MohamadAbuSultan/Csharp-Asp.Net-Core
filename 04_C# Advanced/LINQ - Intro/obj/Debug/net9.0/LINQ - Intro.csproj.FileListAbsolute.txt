@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\bin\Debug\net9.0\LINQ - Intro.exe
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\bin\Debug\net9.0\LINQ - Intro.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\bin\Debug\net9.0\LINQ - Intro.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\bin\Debug\net9.0\LINQ - Intro.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\bin\Debug\net9.0\LINQ - Intro.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\refint\LINQ - Intro.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\LINQ - Intro.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Intro\obj\Debug\net9.0\ref\LINQ - Intro.dll
