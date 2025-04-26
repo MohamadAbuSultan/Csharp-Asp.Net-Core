@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\bin\Debug\net9.0\Generics.exe
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\bin\Debug\net9.0\Generics.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\bin\Debug\net9.0\Generics.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\bin\Debug\net9.0\Generics.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\bin\Debug\net9.0\Generics.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\refint\Generics.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\Generics.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Generics\obj\Debug\net9.0\ref\Generics.dll
