@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\bin\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.exe
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\bin\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\bin\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\bin\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\bin\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\refint\LINQ - Quantifiers, Partitioning, and Set Operations.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\LINQ - Quantifiers, Partitioning, and Set Operations.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Quantifiers, Partitioning, and Set Operations\obj\Debug\net9.0\ref\LINQ - Quantifiers, Partitioning, and Set Operations.dll
