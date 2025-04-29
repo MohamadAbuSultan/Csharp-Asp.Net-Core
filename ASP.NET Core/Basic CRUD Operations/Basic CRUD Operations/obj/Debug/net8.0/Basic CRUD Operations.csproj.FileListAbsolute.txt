@@ -88,4 +88,3 @@ D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Basic CRUD Operations\Basic CRUD 
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\net8.0\Basic CRUD Operations.staticwebassets.endpoints.json
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\net8.0\staticwebassets\msbuild.Basic CRUD Operations.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

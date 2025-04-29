@@ -14,6 +14,11 @@ namespace Basic_CRUD_Operations.Controllers
             this._dbContext = dbContext;
         }
 
+
+        //-------------------
+        // GET: Get All Products
+        //-------------------
+
         [HttpGet]
         [Route("")]
         public ActionResult<IEnumerable<Product>> GetAll(Product product)
@@ -21,6 +26,12 @@ namespace Basic_CRUD_Operations.Controllers
             var records = _dbContext.Set<Product>().ToList();
             return Ok(records);
         }
+
+
+
+        //-------------------
+        // GET: Get Product by Id
+        //-------------------
 
         [HttpGet]
         [Route("{id}")]
@@ -30,15 +41,25 @@ namespace Basic_CRUD_Operations.Controllers
             return record == null ? NotFound() : Ok(record);
         }
 
+
+        //-------------------
+        // POST: Create New Product
+        //-------------------
+
         [HttpPost]
         [Route("")]
         public ActionResult<int> CreateProduct(Product product)
         {
-            product.Id = 0;
+            product.Id = 0; // نخلي الـ Id صفر علشان SQL Server يحط Id جديد تلقائي
             _dbContext.Set<Product>().Add(product);
             _dbContext.SaveChanges();
-            return Ok(product.Id);
+            return Ok(product.Id); // رجعنا Id اللي انضاف
         }
+
+
+        //-------------------
+        // PUT: Update Product
+        //-------------------
 
         [HttpPut]
         [Route("")]
@@ -51,6 +72,10 @@ namespace Basic_CRUD_Operations.Controllers
             _dbContext.SaveChanges();
             return Ok();
         }
+
+        //-------------------
+        // DELETE: Delete Product
+        //-------------------
 
         [HttpDelete]
         [Route("{id}")]
