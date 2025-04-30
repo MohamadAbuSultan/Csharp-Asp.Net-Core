@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\bin\Debug\net9.0\LINQ - Joins and Grouping.exe
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\bin\Debug\net9.0\LINQ - Joins and Grouping.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\bin\Debug\net9.0\LINQ - Joins and Grouping.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\bin\Debug\net9.0\LINQ - Joins and Grouping.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\bin\Debug\net9.0\LINQ - Joins and Grouping.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\refint\LINQ - Joins and Grouping.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\LINQ - Joins and Grouping.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\LINQ - Joins and Grouping\obj\Debug\net9.0\ref\LINQ - Joins and Grouping.dll
