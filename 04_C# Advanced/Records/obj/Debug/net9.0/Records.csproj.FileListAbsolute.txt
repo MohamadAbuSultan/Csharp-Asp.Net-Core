@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\bin\Debug\net9.0\Records.exe
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\bin\Debug\net9.0\Records.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\bin\Debug\net9.0\Records.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\bin\Debug\net9.0\Records.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\bin\Debug\net9.0\Records.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\refint\Records.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\Records.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Records\obj\Debug\net9.0\ref\Records.dll
