@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\bin\Debug\net9.0\Backtracking.exe
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\bin\Debug\net9.0\Backtracking.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\bin\Debug\net9.0\Backtracking.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\bin\Debug\net9.0\Backtracking.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\bin\Debug\net9.0\Backtracking.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\refint\Backtracking.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\Backtracking.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Backtracking\obj\Debug\net9.0\ref\Backtracking.dll
