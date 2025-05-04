@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\bin\Debug\net9.0\Two-Pointers.exe
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\bin\Debug\net9.0\Two-Pointers.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\bin\Debug\net9.0\Two-Pointers.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\bin\Debug\net9.0\Two-Pointers.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\bin\Debug\net9.0\Two-Pointers.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\refint\Two-Pointers.dll
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\Two-Pointers.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Problem-Solving Techniques\Two-Pointers\obj\Debug\net9.0\ref\Two-Pointers.dll
