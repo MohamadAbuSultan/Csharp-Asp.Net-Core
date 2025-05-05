@@ -1,0 +1,38 @@
+### Test GET request
+GET http://localhost:5174/
+
+### Test POST request with automatic model binding
+POST http://localhost:5174/auto
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "age": 30
+}
+
+### Test POST request with manual JSON deserialization
+POST http://localhost:5174/json
+Content-Type: application/json
+
+{
+  "name": "Jane Doe",
+  "age": 25
+}
+
+### Test POST request with custom JSON options
+POST http://localhost:5174/custom-options
+Content-Type: application/json
+
+{
+  "name": "Alice",
+  "age": 28
+}
+
+### Test POST request with XML deserialization
+POST http://localhost:5174/xml
+Content-Type: application/xml
+
+<Person>
+  <Name>Bob</Name>
+  <Age>35</Age>
+</Person>
