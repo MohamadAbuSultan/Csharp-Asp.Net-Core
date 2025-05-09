@@ -1,0 +1,37 @@
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\appsettings.Development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\appsettings.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Integrating Swagger.staticwebassets.endpoints.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Integrating Swagger.exe
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Integrating Swagger.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Integrating Swagger.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Integrating Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Integrating Swagger.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.csproj.AssemblyReference.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.MvcApplicationPartsAssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.MvcApplicationPartsAssemblyInfo.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\scopedcss\bundle\Integrating Swagger.styles.css
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets.build.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets.development.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets\msbuild.Integrating Swagger.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets\msbuild.Integrating Swagger.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets\msbuild.build.Integrating Swagger.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Integrating Swagger.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Integrating Swagger.props
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\staticwebassets.pack.json
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrat.D1BD1BDB.Up2Date
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\refint\Integrating Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.pdb
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\Integrating Swagger.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\obj\Debug\net9.0\ref\Integrating Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\Integrating Swagger\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
