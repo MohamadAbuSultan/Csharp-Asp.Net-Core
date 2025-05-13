@@ -1,0 +1,41 @@
+### GET all users
+GET http://localhost:5106/api/users
+Accept: application/json
+
+### GET user by ID
+GET http://localhost:5106/api/users/1
+Accept: application/json
+
+### POST new user
+POST http://localhost:5106/api/users
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "johndoe@example.com"
+}
+
+### PUT update user
+PUT http://localhost:5106/api/users/1
+Content-Type: application/json
+
+{
+  "name": "Jane Doe",
+  "email": "janedoe@example.com"
+}
+
+### DELETE user
+DELETE http://localhost:5106/api/users/1
+
+###
+curl -X GET http://localhost:5106/api/users -H "Authorization: ValidToken123"
+
+###
+GET http://localhost:5106/api/users
+Accept: application/json
+
+###
+curl -X GET http://localhost:5106/api/users
+
+###
+curl -X POST http://localhost:5106/api/users -H "Content-Type: application/json" -d '{"name": "John Doe", "email": "johndoe@example.com"}'
