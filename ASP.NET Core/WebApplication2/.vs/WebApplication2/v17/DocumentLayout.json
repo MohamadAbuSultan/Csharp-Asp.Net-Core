@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B7A1C10-A72F-4CF6-8511-D12C95383F64}|WebApplication2\\WebApplication2.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\webapplication2\\webapplication2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B7A1C10-A72F-4CF6-8511-D12C95383F64}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B7A1C10-A72F-4CF6-8511-D12C95383F64}|WebApplication2\\WebApplication2.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7A1C10-A72F-4CF6-8511-D12C95383F64}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B7A1C10-A72F-4CF6-8511-D12C95383F64}|WebApplication2\\WebApplication2.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\webapplication2\\webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7A1C10-A72F-4CF6-8511-D12C95383F64}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,35 +36,9 @@
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TodoController.cs",
               "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\WebApplication2\\WebApplication2\\Controllers\\TodoController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\TodoController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:46:26.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\WebApplication2\\WebApplication2\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\WebApplication2\\WebApplication2\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T14:32:35.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T14:32:11.513Z",
+              "WhenOpened": "2025-05-14T17:43:53.265Z",
               "EditorCaption": ""
             }
           ]
