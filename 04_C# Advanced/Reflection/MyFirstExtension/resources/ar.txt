@@ -1,0 +1,3 @@
+﻿file:file menu
+edit:edit menu
+view:view menu

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PureVsImpureFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81ede7a7d637baa4ab58298cff891543fab6d5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521485e31b7e717d27b986c32dd2f369ee416a82")]
 [assembly: System.Reflection.AssemblyProductAttribute("PureVsImpureFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PureVsImpureFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

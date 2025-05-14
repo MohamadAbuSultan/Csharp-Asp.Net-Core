@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\bin\Debug\net9.0\Core Of LINQ.exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\bin\Debug\net9.0\Core Of LINQ.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\bin\Debug\net9.0\Core Of LINQ.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\bin\Debug\net9.0\Core Of LINQ.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\bin\Debug\net9.0\Core Of LINQ.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\refint\Core Of LINQ.dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\Core Of LINQ.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Core Of LINQ\obj\Debug\net9.0\ref\Core Of LINQ.dll

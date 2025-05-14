@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\efcore\\efcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|solutionrelative:efcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\efcore\\efcore\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\efcore\\efcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|d:\\my_learning\\csharp_asp.netcore\\ef core\\efcore\\efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ECD13-8404-4CED-8FAC-F1A22B7C7336}|EFCore\\EFCore.csproj|solutionrelative:efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EFCore\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:40:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "EFCore\\Models\\Manager.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Models\\Manager.cs",
+              "RelativeToolTip": "EFCore\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:00:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCore\\Models\\Employee.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCore\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:58:59.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\EF Core\\EFCore\\EFCore\\Program.cs",
+              "RelativeToolTip": "EFCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:44:54.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

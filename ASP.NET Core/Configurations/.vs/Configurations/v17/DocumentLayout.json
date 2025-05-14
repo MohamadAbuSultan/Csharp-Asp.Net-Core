@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\.vs\\CMakeWorkspaceSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\CMakeWorkspaceSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\Controller\\ConfigController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controller\\ConfigController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +34,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:56:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CMakeWorkspaceSettings.json",
-              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\.vs\\CMakeWorkspaceSettings.json",
-              "RelativeDocumentMoniker": ".vs\\CMakeWorkspaceSettings.json",
-              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\.vs\\CMakeWorkspaceSettings.json",
-              "RelativeToolTip": ".vs\\CMakeWorkspaceSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T05:47:09.396Z",
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\Controller\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controller\\ConfigController.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\Configurations\\Controller\\ConfigController.cs",
+              "RelativeToolTip": "Controller\\ConfigController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:02:45.098Z",
               "EditorCaption": ""
             }
           ]

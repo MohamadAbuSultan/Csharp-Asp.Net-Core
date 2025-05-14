@@ -1,11 +1,14 @@
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEmailSender();
 builder.Services.AddScoped<IMessageSender, EmailMessageSender>();
-builder.Services.AddScoped<IMessageSender, SmsSender>();
-builder.Services.AddScoped<IMessageSender, FacebookSender>();
+// سجل نسخة SMS فقط إذا ما تم تسجيل IMessageSender من قبل
+builder.Services.TryAddScoped<IMessageSender, SmsSender>();
+builder.Services.TryAddScoped<IMessageSender, FacebookSender>();
+
 
 var app = builder.Build();
 

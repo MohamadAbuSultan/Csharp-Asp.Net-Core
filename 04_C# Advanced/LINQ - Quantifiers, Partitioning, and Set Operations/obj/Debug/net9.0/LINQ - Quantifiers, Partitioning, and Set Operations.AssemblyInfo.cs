@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ - Quantifiers, Partitioning, and Set Operations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+769c8570461210f5082a985bc0506a087765c74d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71df259b79d5bc284012d8310e2de99f33dae16")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ - Quantifiers, Partitioning, and Set Operations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ - Quantifiers, Partitioning, and Set Operations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

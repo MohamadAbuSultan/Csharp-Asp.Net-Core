@@ -11,6 +11,16 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddControllers();
 
+
+// var attachmentOptions = builder.Configuration.GetSection("Attachments").Get<AttachmentOptions>();
+// builder.Services.AddSingleton(attachmentOptions);
+
+// var attachmentOptions = new AttachmentOptions();
+// builder.Configuration.GetSection("Attachments").Bind(attachmentOptions);
+// builder.Services.AddSingleton(attachmentOptions);
+
+builder.Services.Configure<AttachmentOptions>(builder.Configuration.GetSection("Attachments"));
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration["ConnectionStrings:DefaultConnection"]

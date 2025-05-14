@@ -1,0 +1,8 @@
+### Request to get people whose first name starts with "T"
+GET http://localhost:5249/person/name?name=T
+
+### Request to get people whose first name starts with "D"
+GET http://localhost:5249/person/name?name=D
+
+### Request to get people whose first name starts with "L"
+GET http://localhost:5249/person/name?name=L

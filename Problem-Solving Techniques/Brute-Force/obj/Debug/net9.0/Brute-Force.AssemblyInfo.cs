@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Brute-Force")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71df259b79d5bc284012d8310e2de99f33dae16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1317df3d11046eb1793a3b18939fe718d26cbde8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Brute-Force")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Brute-Force")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

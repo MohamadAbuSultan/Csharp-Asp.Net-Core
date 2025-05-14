@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj": {}
+    "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj": {}
   },
   "projects": {
-    "d:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj": {
+    "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj",
+        "projectUniqueName": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj",
         "projectName": "middleware",
-        "projectPath": "d:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj",
+        "projectPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\middleware.csproj",
         "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-        "outputPath": "d:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\obj\\",
+        "outputPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

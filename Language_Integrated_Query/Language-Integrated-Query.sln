@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Summation Using Sum()",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functional Programming", "Functional Programming\Functional Programming.csproj", "{FAAB453F-8C0B-4A93-803C-1B70EB33E7C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core Of LINQ", "Core Of LINQ\Core Of LINQ.csproj", "{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{FAAB453F-8C0B-4A93-803C-1B70EB33E7C4}.Release|x64.Build.0 = Release|Any CPU
 		{FAAB453F-8C0B-4A93-803C-1B70EB33E7C4}.Release|x86.ActiveCfg = Release|Any CPU
 		{FAAB453F-8C0B-4A93-803C-1B70EB33E7C4}.Release|x86.Build.0 = Release|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Debug|x64.Build.0 = Debug|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Debug|x86.Build.0 = Debug|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Release|x64.ActiveCfg = Release|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Release|x64.Build.0 = Release|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Release|x86.ActiveCfg = Release|Any CPU
+		{AFE5D958-C61E-4C89-B9AE-3C64B6516FCA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\bin\Debug\net9.0\MyFirstExtension.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\bin\Debug\net9.0\MyFirstExtension.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\bin\Debug\net9.0\MyFirstExtension.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\bin\Debug\net9.0\MySecondExtension.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\bin\Debug\net9.0\MySecondExtension.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.csproj.AssemblyReference.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstE.791C5135.Up2Date
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\refint\MyFirstExtension.dll
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\MyFirstExtension.pdb
+D:\My_Learning\Csharp_Asp.NetCore\04_C# Advanced\Reflection\MyFirstExtension\obj\Debug\net9.0\ref\MyFirstExtension.dll

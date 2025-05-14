@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ - Joins and Grouping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03a9cd4a0ce69fe291d35a313c698f6950cd13a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71df259b79d5bc284012d8310e2de99f33dae16")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ - Joins and Grouping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ - Joins and Grouping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
