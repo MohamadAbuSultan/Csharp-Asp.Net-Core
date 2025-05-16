@@ -4,14 +4,14 @@ using WebApplication2.Models;
 namespace WebApplication2.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
 
     public class TodoController : ControllerBase
     {
         private static List<ToDoItem> _toDoItems = new List<ToDoItem>
         {
-            new ToDoItem { Id = 1, Title = "Task 1", Completed = true },
-            new ToDoItem { Id = 2, Title = "Task 2", Completed = false }
+            new ToDoItem { Id = 1, Title = "Task 1", IsComplete = true },
+            new ToDoItem { Id = 2, Title = "Task 2", IsComplete = false }
         };
 
         [HttpGet]
@@ -38,13 +38,30 @@ namespace WebApplication2.Controllers
             return Ok(toDoItemDTO);
         }
 
+        [HttpPost]
+        public IActionResult Create([FromBody] ToDoItemDTO toDoItemDTO)
+        {
+            if (toDoItemDTO == null)
+                return BadRequest();
+
+            var newItem = new ToDoItem
+            {
+                Id = _toDoItems.Max(i => i.Id) + 1,
+                Title = toDoItemDTO.Title,
+                IsComplete = toDoItemDTO.IsComplete
+            };
+
+            _toDoItems.Add(newItem);
+            return CreatedAtAction(nameof(GetById), new { id = newItem.Id }, MapToDoItemToDTO(newItem));
+        }
+
         private ToDoItemDTO MapToDoItemToDTO(ToDoItem item)
         {
             return new ToDoItemDTO
             {
                 Id = item.Id,
                 Title = item.Title,
-                Completed = item.Completed
+                IsComplete = item.IsComplete
             };
         }
     }
