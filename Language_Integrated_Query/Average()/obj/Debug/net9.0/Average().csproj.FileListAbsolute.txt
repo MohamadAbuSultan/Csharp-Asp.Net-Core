@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\bin\Debug\net9.0\Average().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\bin\Debug\net9.0\Average().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\bin\Debug\net9.0\Average().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\bin\Debug\net9.0\Average().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\bin\Debug\net9.0\Average().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\refint\Average().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\Average().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Average()\obj\Debug\net9.0\ref\Average().dll
