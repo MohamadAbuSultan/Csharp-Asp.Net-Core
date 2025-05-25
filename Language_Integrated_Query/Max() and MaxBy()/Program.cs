@@ -10,4 +10,7 @@ int maxSpeed = cars.Max(car => car.MaxSpeed);
 // Console.WriteLine($"The maximum speed is: {maxSpeed}");
 
 int maxLength = cars.Max(car => car.Manufacturer.Length);
-Console.WriteLine($"The maximum length of a manufacturer name is: {maxLength}");
+// Console.WriteLine($"The maximum length of a manufacturer name is: {maxLength}");
+
+Car? maxSpeedCar = cars.MaxBy(car => car.MaxSpeed);
+CarRepository.PrintCars([maxSpeedCar!]);
