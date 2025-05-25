@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\bin\Debug\net9.0\Min() and MinBy().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\bin\Debug\net9.0\Min() and MinBy().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\bin\Debug\net9.0\Min() and MinBy().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\bin\Debug\net9.0\Min() and MinBy().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\bin\Debug\net9.0\Min() and MinBy().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\refint\Min() and MinBy().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\Min() and MinBy().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Min() and MinBy()\obj\Debug\net9.0\ref\Min() and MinBy().dll
