@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sPl5rINQjvU=",
+  "dgSpecHash": "2vxLFtxFQ10=",
   "success": true,
   "projectFilePath": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\api\\api.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.5\\microsoft.entityframeworkcore.relational.8.0.5.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.5\\microsoft.entityframeworkcore.sqlserver.8.0.5.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.5\\microsoft.entityframeworkcore.tools.8.0.5.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -48,6 +49,10 @@
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

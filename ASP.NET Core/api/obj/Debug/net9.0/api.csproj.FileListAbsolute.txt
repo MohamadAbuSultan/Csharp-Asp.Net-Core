@@ -131,3 +131,6 @@ D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\api\obj\Debug\net9.0\refint\api.d
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\api\obj\Debug\net9.0\api.pdb
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\api\obj\Debug\net9.0\ref\api.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My_Learning\Csharp_Asp.NetCore\ASP.NET Core\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
