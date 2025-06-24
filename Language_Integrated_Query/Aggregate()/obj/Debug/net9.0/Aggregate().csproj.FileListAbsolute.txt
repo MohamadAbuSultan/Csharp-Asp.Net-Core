@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\bin\Debug\net9.0\Aggregate().exe
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\bin\Debug\net9.0\Aggregate().deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\bin\Debug\net9.0\Aggregate().runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\bin\Debug\net9.0\Aggregate().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\bin\Debug\net9.0\Aggregate().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\refint\Aggregate().dll
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().pdb
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\Aggregate().genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Language_Integrated_Query\Aggregate()\obj\Debug\net9.0\ref\Aggregate().dll
