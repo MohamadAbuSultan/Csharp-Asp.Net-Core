@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Select One Element using Single() and SingleOrDefault")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521485e31b7e717d27b986c32dd2f369ee416a82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af43b533e390ee3023bd76fe808d75ca749041e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Select One Element using Single() and SingleOrDefault")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Select One Element using Single() and SingleOrDefault")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
