@@ -1,0 +1,14 @@
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.exe
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.deps.json
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.runtimeconfig.json
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.dll
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.pdb
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.AssemblyInfoInputs.cache
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.AssemblyInfo.cs
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.dll
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\refint\Digital Shopping List.dll
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.pdb
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.genruntimeconfig.cache
+C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\ref\Digital Shopping List.dll
