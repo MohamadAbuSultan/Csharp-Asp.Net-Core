@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\bin\Debug\net10.0\Dictionary, SortedList & Hashtable.exe
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\bin\Debug\net10.0\Dictionary, SortedList & Hashtable.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\bin\Debug\net10.0\Dictionary, SortedList & Hashtable.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\bin\Debug\net10.0\Dictionary, SortedList & Hashtable.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\bin\Debug\net10.0\Dictionary, SortedList & Hashtable.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\refint\Dictionary, SortedList & Hashtable.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\Dictionary, SortedList & Hashtable.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Dictionary, SortedList & Hashtable\Dictionary, SortedList & Hashtable\obj\Debug\net10.0\ref\Dictionary, SortedList & Hashtable.dll
