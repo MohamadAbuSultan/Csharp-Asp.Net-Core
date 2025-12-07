@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\bin\Debug\net10.0\Stack & Queue.exe
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\bin\Debug\net10.0\Stack & Queue.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\bin\Debug\net10.0\Stack & Queue.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\bin\Debug\net10.0\Stack & Queue.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\bin\Debug\net10.0\Stack & Queue.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\refint\Stack & Queue.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\Stack & Queue.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Stack & Queue\Stack & Queue\obj\Debug\net10.0\ref\Stack & Queue.dll
