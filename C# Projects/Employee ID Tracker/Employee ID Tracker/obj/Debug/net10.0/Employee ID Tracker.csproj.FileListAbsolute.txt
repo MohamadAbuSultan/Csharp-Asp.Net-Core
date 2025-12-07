@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\bin\Debug\net10.0\Employee ID Tracker.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\bin\Debug\net10.0\Employee ID Tracker.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\bin\Debug\net10.0\Employee ID Tracker.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\bin\Debug\net10.0\Employee ID Tracker.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\bin\Debug\net10.0\Employee ID Tracker.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\refint\Employee ID Tracker.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\Employee ID Tracker.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Employee ID Tracker\Employee ID Tracker\obj\Debug\net10.0\ref\Employee ID Tracker.dll
