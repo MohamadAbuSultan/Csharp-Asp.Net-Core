@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CROSSHAIR 15\\OneDrive\\Desktop\\C# ASP\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj": {}
+    "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CROSSHAIR 15\\OneDrive\\Desktop\\C# ASP\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj": {
+    "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CROSSHAIR 15\\OneDrive\\Desktop\\C# ASP\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj",
+        "projectUniqueName": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj",
         "projectName": "Digital Shopping List",
-        "projectPath": "C:\\Users\\CROSSHAIR 15\\OneDrive\\Desktop\\C# ASP\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj",
+        "projectPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Digital Shopping List\\Digital Shopping List\\Digital Shopping List.csproj",
         "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CROSSHAIR 15\\OneDrive\\Desktop\\C# ASP\\C# Projects\\Digital Shopping List\\Digital Shopping List\\obj\\",
+        "outputPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Digital Shopping List\\Digital Shopping List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Digital Shopping List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1caeb6751387a868da34f77f63d81ef58126ac64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Digital Shopping List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Digital Shopping List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

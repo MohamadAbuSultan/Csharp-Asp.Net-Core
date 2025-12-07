@@ -12,3 +12,18 @@ C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\
 C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.pdb
 C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.genruntimeconfig.cache
 C:\Users\CROSSHAIR 15\OneDrive\Desktop\C# ASP\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\ref\Digital Shopping List.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\bin\Debug\net10.0\Digital Shopping List.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\refint\Digital Shopping List.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\Digital Shopping List.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Digital Shopping List\Digital Shopping List\obj\Debug\net10.0\ref\Digital Shopping List.dll
