@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\bin\Debug\net10.0\Integer Collection Sum.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\bin\Debug\net10.0\Integer Collection Sum.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\bin\Debug\net10.0\Integer Collection Sum.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\bin\Debug\net10.0\Integer Collection Sum.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\bin\Debug\net10.0\Integer Collection Sum.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\refint\Integer Collection Sum.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\Integer Collection Sum.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Integer Collection Sum\Integer Collection Sum\obj\Debug\net10.0\ref\Integer Collection Sum.dll
