@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Generic Data Swapper/1.0.0": {
+        "runtime": {
+          "Generic Data Swapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic Data Swapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

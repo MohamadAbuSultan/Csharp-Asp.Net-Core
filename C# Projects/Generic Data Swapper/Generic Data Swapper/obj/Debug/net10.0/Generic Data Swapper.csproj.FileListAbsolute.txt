@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\bin\Debug\net10.0\Generic Data Swapper.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\bin\Debug\net10.0\Generic Data Swapper.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\bin\Debug\net10.0\Generic Data Swapper.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\bin\Debug\net10.0\Generic Data Swapper.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\bin\Debug\net10.0\Generic Data Swapper.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\refint\Generic Data Swapper.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\Generic Data Swapper.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Generic Data Swapper\Generic Data Swapper\obj\Debug\net10.0\ref\Generic Data Swapper.dll
