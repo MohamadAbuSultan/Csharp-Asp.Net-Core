@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\bin\Debug\net10.0\Prime Number Validator.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\bin\Debug\net10.0\Prime Number Validator.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\bin\Debug\net10.0\Prime Number Validator.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\bin\Debug\net10.0\Prime Number Validator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\bin\Debug\net10.0\Prime Number Validator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\refint\Prime Number Validator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\Prime Number Validator.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Prime Number Validator\Prime Number Validator\obj\Debug\net10.0\ref\Prime Number Validator.dll
