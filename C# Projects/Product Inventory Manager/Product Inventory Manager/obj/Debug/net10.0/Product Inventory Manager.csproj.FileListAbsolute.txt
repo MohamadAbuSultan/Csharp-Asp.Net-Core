@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\bin\Debug\net10.0\Product Inventory Manager.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\bin\Debug\net10.0\Product Inventory Manager.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\bin\Debug\net10.0\Product Inventory Manager.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\bin\Debug\net10.0\Product Inventory Manager.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\bin\Debug\net10.0\Product Inventory Manager.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\refint\Product Inventory Manager.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\Product Inventory Manager.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Product Inventory Manager\Product Inventory Manager\obj\Debug\net10.0\ref\Product Inventory Manager.dll
