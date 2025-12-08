@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\bin\Debug\net10.0\Flexible Data Container.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\bin\Debug\net10.0\Flexible Data Container.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\bin\Debug\net10.0\Flexible Data Container.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\bin\Debug\net10.0\Flexible Data Container.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\bin\Debug\net10.0\Flexible Data Container.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\refint\Flexible Data Container.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\Flexible Data Container.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Flexible Data Container\Flexible Data Container\obj\Debug\net10.0\ref\Flexible Data Container.dll
