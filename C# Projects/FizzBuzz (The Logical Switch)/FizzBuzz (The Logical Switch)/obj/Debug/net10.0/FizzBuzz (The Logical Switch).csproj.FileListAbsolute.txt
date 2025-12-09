@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\bin\Debug\net10.0\FizzBuzz (The Logical Switch).exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\bin\Debug\net10.0\FizzBuzz (The Logical Switch).deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\bin\Debug\net10.0\FizzBuzz (The Logical Switch).runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\bin\Debug\net10.0\FizzBuzz (The Logical Switch).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\bin\Debug\net10.0\FizzBuzz (The Logical Switch).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\refint\FizzBuzz (The Logical Switch).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\FizzBuzz (The Logical Switch).genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\FizzBuzz (The Logical Switch)\FizzBuzz (The Logical Switch)\obj\Debug\net10.0\ref\FizzBuzz (The Logical Switch).dll
