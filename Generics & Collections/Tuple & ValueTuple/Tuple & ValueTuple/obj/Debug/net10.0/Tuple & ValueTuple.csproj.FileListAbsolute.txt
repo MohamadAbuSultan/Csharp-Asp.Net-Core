@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\bin\Debug\net10.0\Tuple & ValueTuple.exe
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\bin\Debug\net10.0\Tuple & ValueTuple.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\bin\Debug\net10.0\Tuple & ValueTuple.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\bin\Debug\net10.0\Tuple & ValueTuple.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\bin\Debug\net10.0\Tuple & ValueTuple.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\refint\Tuple & ValueTuple.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\Tuple & ValueTuple.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Tuple & ValueTuple\Tuple & ValueTuple\obj\Debug\net10.0\ref\Tuple & ValueTuple.dll
