@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\bin\Debug\net10.0\Indexers.exe
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\bin\Debug\net10.0\Indexers.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\bin\Debug\net10.0\Indexers.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\bin\Debug\net10.0\Indexers.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\bin\Debug\net10.0\Indexers.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\refint\Indexers.dll
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\Indexers.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Generics & Collections\Indexers\Indexers\obj\Debug\net10.0\ref\Indexers.dll
