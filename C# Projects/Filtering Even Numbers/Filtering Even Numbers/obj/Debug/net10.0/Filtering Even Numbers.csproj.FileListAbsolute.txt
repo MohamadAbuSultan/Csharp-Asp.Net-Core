@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\bin\Debug\net10.0\Filtering Even Numbers.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\bin\Debug\net10.0\Filtering Even Numbers.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\bin\Debug\net10.0\Filtering Even Numbers.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\bin\Debug\net10.0\Filtering Even Numbers.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\bin\Debug\net10.0\Filtering Even Numbers.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\refint\Filtering Even Numbers.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\Filtering Even Numbers.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filtering Even Numbers\Filtering Even Numbers\obj\Debug\net10.0\ref\Filtering Even Numbers.dll

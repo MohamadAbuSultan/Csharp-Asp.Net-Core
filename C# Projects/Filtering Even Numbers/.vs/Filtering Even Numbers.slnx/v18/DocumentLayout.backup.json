@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Filtering Even Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45622B62-0569-4E12-A57A-7B9F9B6F169B}|Filtering Even Numbers\\Filtering Even Numbers.csproj|d:\\my_learning\\csharp_asp.netcore\\c# projects\\filtering even numbers\\filtering even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45622B62-0569-4E12-A57A-7B9F9B6F169B}|Filtering Even Numbers\\Filtering Even Numbers.csproj|solutionrelative:filtering even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Filtering Even Numbers\\Filtering Even Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Filtering Even Numbers\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Filtering Even Numbers\\Filtering Even Numbers\\Program.cs",
+              "RelativeToolTip": "Filtering Even Numbers\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:30:14.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
