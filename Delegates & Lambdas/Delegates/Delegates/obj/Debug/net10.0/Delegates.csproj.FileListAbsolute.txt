@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\bin\Debug\net10.0\Delegates.exe
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\bin\Debug\net10.0\Delegates.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\bin\Debug\net10.0\Delegates.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\bin\Debug\net10.0\Delegates.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\bin\Debug\net10.0\Delegates.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\refint\Delegates.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\Delegates.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Delegates\Delegates\obj\Debug\net10.0\ref\Delegates.dll
