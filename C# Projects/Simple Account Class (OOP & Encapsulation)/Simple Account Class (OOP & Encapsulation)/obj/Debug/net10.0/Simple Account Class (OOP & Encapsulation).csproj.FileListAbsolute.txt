@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\bin\Debug\net10.0\Simple Account Class (OOP & Encapsulation).exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\bin\Debug\net10.0\Simple Account Class (OOP & Encapsulation).deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\bin\Debug\net10.0\Simple Account Class (OOP & Encapsulation).runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\bin\Debug\net10.0\Simple Account Class (OOP & Encapsulation).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\bin\Debug\net10.0\Simple Account Class (OOP & Encapsulation).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\refint\Simple Account Class (OOP & Encapsulation).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\Simple Account Class (OOP & Encapsulation).genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Account Class (OOP & Encapsulation)\Simple Account Class (OOP & Encapsulation)\obj\Debug\net10.0\ref\Simple Account Class (OOP & Encapsulation).dll

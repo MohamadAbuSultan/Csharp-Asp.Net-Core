@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Simple Account Class (OOP \u0026 Encapsulation)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD314E01-236D-58E2-37D2-43210E9D1091}|Simple Account Class (OOP \u0026 Encapsulation)\\Simple Account Class (OOP \u0026 Encapsulation).csproj|d:\\my_learning\\csharp_asp.netcore\\c# projects\\simple account class (oop \u0026 encapsulation)\\simple account class (oop \u0026 encapsulation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD314E01-236D-58E2-37D2-43210E9D1091}|Simple Account Class (OOP \u0026 Encapsulation)\\Simple Account Class (OOP \u0026 Encapsulation).csproj|solutionrelative:simple account class (oop \u0026 encapsulation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Simple Account Class (OOP \u0026 Encapsulation)\\Simple Account Class (OOP \u0026 Encapsulation)\\Program.cs",
+              "RelativeDocumentMoniker": "Simple Account Class (OOP \u0026 Encapsulation)\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Simple Account Class (OOP \u0026 Encapsulation)\\Simple Account Class (OOP \u0026 Encapsulation)\\Program.cs",
+              "RelativeToolTip": "Simple Account Class (OOP \u0026 Encapsulation)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:35:57.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
