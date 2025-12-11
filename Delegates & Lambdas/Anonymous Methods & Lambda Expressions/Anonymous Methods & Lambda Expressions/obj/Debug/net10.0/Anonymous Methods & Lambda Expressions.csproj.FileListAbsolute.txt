@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\bin\Debug\net10.0\Anonymous Methods & Lambda Expressions.exe
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\bin\Debug\net10.0\Anonymous Methods & Lambda Expressions.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\bin\Debug\net10.0\Anonymous Methods & Lambda Expressions.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\bin\Debug\net10.0\Anonymous Methods & Lambda Expressions.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\bin\Debug\net10.0\Anonymous Methods & Lambda Expressions.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\refint\Anonymous Methods & Lambda Expressions.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\Anonymous Methods & Lambda Expressions.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Anonymous Methods & Lambda Expressions\Anonymous Methods & Lambda Expressions\obj\Debug\net10.0\ref\Anonymous Methods & Lambda Expressions.dll
