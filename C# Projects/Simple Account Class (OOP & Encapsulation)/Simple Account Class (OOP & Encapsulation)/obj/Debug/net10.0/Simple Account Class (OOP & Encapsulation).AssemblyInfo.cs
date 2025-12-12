@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simple Account Class (OOP & Encapsulation)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007f3d4dcc8baaf8ef105d7204a37b9332ad8d79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01e1148ddfe986eca4bf021e9ea7f2bc0c484ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simple Account Class (OOP & Encapsulation)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simple Account Class (OOP & Encapsulation)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

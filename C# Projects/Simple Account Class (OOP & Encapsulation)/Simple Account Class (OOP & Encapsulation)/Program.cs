@@ -7,15 +7,15 @@
             BankAccount account = new BankAccount();
 
             account.Deposit(1000);
-            Console.WriteLine($"Balance after deposit: {account.GetBalance()}");
+            Console.WriteLine($"Balance after deposit: {account.Balance}");
 
             if (account.Withdraw(500))
-                Console.WriteLine($"Withdrawal successful. Balance: {account.GetBalance()}");
+                Console.WriteLine($"Withdrawal successful. Balance: {account.Balance}");
             else
                 Console.WriteLine("Withdrawal failed. Insufficient funds.");
 
             if (account.Withdraw(600))
-                Console.WriteLine($"Withdrawal successful. Balance: {account.GetBalance()}");
+                Console.WriteLine($"Withdrawal successful. Balance: {account.Balance}");
             else
                 Console.WriteLine("Withdrawal failed. Insufficient funds.");
         }
@@ -24,6 +24,14 @@
     internal class BankAccount
     {
         private decimal _balance;
+
+        // 1. Constructor to set initial state
+        public BankAccount(decimal initialBalance = 0.00m)
+        {
+            // Simple validation is often done here
+            if (initialBalance < 0) throw new ArgumentOutOfRangeException(nameof(initialBalance), "Initial balance cannot be negative.");
+            _balance = initialBalance;
+        }
 
         public void Deposit(decimal amount)
         {
@@ -52,9 +60,13 @@
             return false;
         }
 
-        public decimal GetBalance()
-        {
-            return _balance;
-        }
+        // 2. Read-Only Property for getting the balance
+        // The '=>' syntax is a concise C# way to return a value
+        public decimal Balance => _balance; // Calling account.Balance returns _balance
+
+        //public decimal GetBalance()
+        //{
+        //    return _balance;
+        //}
     }
 }
