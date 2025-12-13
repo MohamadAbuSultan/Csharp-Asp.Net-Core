@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\bin\Debug\net10.0\Grade Calculator.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\bin\Debug\net10.0\Grade Calculator.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\bin\Debug\net10.0\Grade Calculator.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\bin\Debug\net10.0\Grade Calculator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\bin\Debug\net10.0\Grade Calculator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\refint\Grade Calculator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\Grade Calculator.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Grade Calculator\Grade Calculator\obj\Debug\net10.0\ref\Grade Calculator.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Shopping System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B04B5913-0E2E-4570-9105-5B46203A146E}|Shopping System Project\\Shopping System Project.csproj|d:\\my_learning\\csharp_asp.netcore\\c# projects\\shopping system project\\shopping system project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04B5913-0E2E-4570-9105-5B46203A146E}|Shopping System Project\\Shopping System Project.csproj|solutionrelative:shopping system project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Shopping System Project\\Shopping System Project\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping System Project\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Shopping System Project\\Shopping System Project\\Program.cs",
+              "RelativeToolTip": "Shopping System Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:24:25.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

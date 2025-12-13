@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FirstMVC/FirstMVC.csproj" />
+  <Project Path="MyMVC/MyMVC.csproj" Id="ffeaa2a8-6bf0-494b-b3f2-cad6197077a3" />
+</Solution>

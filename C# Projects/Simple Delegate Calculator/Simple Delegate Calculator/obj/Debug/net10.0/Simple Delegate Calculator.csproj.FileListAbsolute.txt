@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\bin\Debug\net10.0\Simple Delegate Calculator.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\bin\Debug\net10.0\Simple Delegate Calculator.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\bin\Debug\net10.0\Simple Delegate Calculator.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\bin\Debug\net10.0\Simple Delegate Calculator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\bin\Debug\net10.0\Simple Delegate Calculator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\refint\Simple Delegate Calculator.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\Simple Delegate Calculator.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Simple Delegate Calculator\Simple Delegate Calculator\obj\Debug\net10.0\ref\Simple Delegate Calculator.dll

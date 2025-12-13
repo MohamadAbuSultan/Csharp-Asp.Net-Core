@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\mymvcapp\\mymvcapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\mymvcapp\\mymvcapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\mymvcapp\\mymvcapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|d:\\my_learning\\csharp_asp.netcore\\asp.net core\\mymvcapp\\mymvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CEE18F-1053-45E0-93C6-CA06CEA95543}|MyMvcApp\\MyMvcApp.csproj|solutionrelative:mymvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "MyMvcApp\\Views\\Items\\Overview.cshtml",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "MyMvcApp\\Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T17:11:24.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "MyMvcApp\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:07:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Models\\Item.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Models\\Item.cs*",
+              "RelativeToolTip": "MyMvcApp\\Models\\Item.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:05:00.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\ASP.NET Core\\MyMvcApp\\MyMvcApp\\Program.cs",
+              "RelativeToolTip": "MyMvcApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:58:37.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
