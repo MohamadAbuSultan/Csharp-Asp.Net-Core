@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\bin\Debug\net10.0\Data Transformer (Lambda Expressions).exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\bin\Debug\net10.0\Data Transformer (Lambda Expressions).deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\bin\Debug\net10.0\Data Transformer (Lambda Expressions).runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\bin\Debug\net10.0\Data Transformer (Lambda Expressions).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\bin\Debug\net10.0\Data Transformer (Lambda Expressions).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\refint\Data Transformer (Lambda Expressions).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\Data Transformer (Lambda Expressions).genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Data Transformer (Lambda Expressions)\Data Transformer (Lambda Expressions)\obj\Debug\net10.0\ref\Data Transformer (Lambda Expressions).dll

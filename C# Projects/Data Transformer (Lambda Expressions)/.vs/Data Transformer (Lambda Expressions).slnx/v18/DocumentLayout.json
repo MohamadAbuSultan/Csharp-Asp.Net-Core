@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Data Transformer (Lambda Expressions)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F49E497-8779-4AD4-BF4C-E3C70E89D005}|Data Transformer (Lambda Expressions)\\Data Transformer (Lambda Expressions).csproj|d:\\my_learning\\csharp_asp.netcore\\c# projects\\data transformer (lambda expressions)\\data transformer (lambda expressions)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F49E497-8779-4AD4-BF4C-E3C70E89D005}|Data Transformer (Lambda Expressions)\\Data Transformer (Lambda Expressions).csproj|solutionrelative:data transformer (lambda expressions)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Data Transformer (Lambda Expressions)\\Data Transformer (Lambda Expressions)\\Program.cs",
+              "RelativeDocumentMoniker": "Data Transformer (Lambda Expressions)\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Data Transformer (Lambda Expressions)\\Data Transformer (Lambda Expressions)\\Program.cs",
+              "RelativeToolTip": "Data Transformer (Lambda Expressions)\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:04:22.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
