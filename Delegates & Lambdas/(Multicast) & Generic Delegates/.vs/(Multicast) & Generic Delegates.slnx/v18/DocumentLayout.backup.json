@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\Delegates \u0026 Lambdas\\(Multicast) \u0026 Generic Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0454B70B-B490-4A40-AF05-95BA0A4941C1}|(Multicast) \u0026 Generic Delegates\\(Multicast) \u0026 Generic Delegates.csproj|d:\\my_learning\\csharp_asp.netcore\\delegates \u0026 lambdas\\(multicast) \u0026 generic delegates\\(multicast) \u0026 generic delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0454B70B-B490-4A40-AF05-95BA0A4941C1}|(Multicast) \u0026 Generic Delegates\\(Multicast) \u0026 Generic Delegates.csproj|solutionrelative:(multicast) \u0026 generic delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\Delegates \u0026 Lambdas\\(Multicast) \u0026 Generic Delegates\\(Multicast) \u0026 Generic Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "(Multicast) \u0026 Generic Delegates\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\Delegates \u0026 Lambdas\\(Multicast) \u0026 Generic Delegates\\(Multicast) \u0026 Generic Delegates\\Program.cs*",
+              "RelativeToolTip": "(Multicast) \u0026 Generic Delegates\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:59:21.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
