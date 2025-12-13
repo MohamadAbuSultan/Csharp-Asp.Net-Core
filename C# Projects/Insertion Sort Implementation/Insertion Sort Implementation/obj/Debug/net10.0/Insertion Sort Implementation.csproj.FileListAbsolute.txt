@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\bin\Debug\net10.0\Insertion Sort Implementation.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\bin\Debug\net10.0\Insertion Sort Implementation.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\bin\Debug\net10.0\Insertion Sort Implementation.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\bin\Debug\net10.0\Insertion Sort Implementation.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\bin\Debug\net10.0\Insertion Sort Implementation.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\refint\Insertion Sort Implementation.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\Insertion Sort Implementation.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Insertion Sort Implementation\Insertion Sort Implementation\obj\Debug\net10.0\ref\Insertion Sort Implementation.dll
