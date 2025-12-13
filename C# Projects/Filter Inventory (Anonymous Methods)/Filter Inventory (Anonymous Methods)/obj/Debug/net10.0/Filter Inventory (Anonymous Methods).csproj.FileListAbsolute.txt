@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\bin\Debug\net10.0\Filter Inventory (Anonymous Methods).exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\bin\Debug\net10.0\Filter Inventory (Anonymous Methods).deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\bin\Debug\net10.0\Filter Inventory (Anonymous Methods).runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\bin\Debug\net10.0\Filter Inventory (Anonymous Methods).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\bin\Debug\net10.0\Filter Inventory (Anonymous Methods).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\refint\Filter Inventory (Anonymous Methods).dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\Filter Inventory (Anonymous Methods).genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Filter Inventory (Anonymous Methods)\Filter Inventory (Anonymous Methods)\obj\Debug\net10.0\ref\Filter Inventory (Anonymous Methods).dll
