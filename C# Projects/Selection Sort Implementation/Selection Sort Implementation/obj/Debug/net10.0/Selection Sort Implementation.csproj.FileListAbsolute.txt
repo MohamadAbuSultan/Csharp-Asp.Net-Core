@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\bin\Debug\net10.0\Selection Sort Implementation.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\bin\Debug\net10.0\Selection Sort Implementation.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\bin\Debug\net10.0\Selection Sort Implementation.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\bin\Debug\net10.0\Selection Sort Implementation.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\bin\Debug\net10.0\Selection Sort Implementation.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\refint\Selection Sort Implementation.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\Selection Sort Implementation.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\Selection Sort Implementation\Selection Sort Implementation\obj\Debug\net10.0\ref\Selection Sort Implementation.dll

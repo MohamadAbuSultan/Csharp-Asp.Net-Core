@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Selection Sort Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6511C1D-6784-4B2F-BEC0-6D51D8120101}|Selection Sort Implementation\\Selection Sort Implementation.csproj|d:\\my_learning\\csharp_asp.netcore\\c# projects\\selection sort implementation\\selection sort implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6511C1D-6784-4B2F-BEC0-6D51D8120101}|Selection Sort Implementation\\Selection Sort Implementation.csproj|solutionrelative:selection sort implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Selection Sort Implementation\\Selection Sort Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "Selection Sort Implementation\\Program.cs",
+              "ToolTip": "D:\\My_Learning\\Csharp_Asp.NetCore\\C# Projects\\Selection Sort Implementation\\Selection Sort Implementation\\Program.cs",
+              "RelativeToolTip": "Selection Sort Implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:44:42.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
