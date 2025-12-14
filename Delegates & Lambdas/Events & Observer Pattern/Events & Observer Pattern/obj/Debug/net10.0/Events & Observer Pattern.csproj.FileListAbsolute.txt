@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\bin\Debug\net10.0\Events & Observer Pattern.exe
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\bin\Debug\net10.0\Events & Observer Pattern.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\bin\Debug\net10.0\Events & Observer Pattern.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\bin\Debug\net10.0\Events & Observer Pattern.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\bin\Debug\net10.0\Events & Observer Pattern.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\refint\Events & Observer Pattern.dll
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.pdb
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\Events & Observer Pattern.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\Delegates & Lambdas\Events & Observer Pattern\Events & Observer Pattern\obj\Debug\net10.0\ref\Events & Observer Pattern.dll
