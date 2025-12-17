@@ -1,0 +1,15 @@
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\bin\Debug\net10.0\The Universal Data Cleaner.exe
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\bin\Debug\net10.0\The Universal Data Cleaner.deps.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\bin\Debug\net10.0\The Universal Data Cleaner.runtimeconfig.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\bin\Debug\net10.0\The Universal Data Cleaner.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\bin\Debug\net10.0\The Universal Data Cleaner.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.AssemblyInfoInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.AssemblyInfo.cs
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.csproj.CoreCompileInputs.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.sourcelink.json
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\refint\The Universal Data Cleaner.dll
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.pdb
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\The Universal Data Cleaner.genruntimeconfig.cache
+D:\My_Learning\Csharp_Asp.NetCore\C# Projects\The Universal Data Cleaner\The Universal Data Cleaner\obj\Debug\net10.0\ref\The Universal Data Cleaner.dll
